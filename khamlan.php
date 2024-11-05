@@ -9,6 +9,7 @@
 <p><a href="https://typewriter-kl.com/">Situs Toto Macau Terbesar</a></p>
 <p><a href="https://www.knyazev.org/">SLOT BET KECIL</a></p>
 <p><a href="https://www.dobojistok.org/">SITUS TOGEL HK</a></p>
+<p><a href="https://terunyan-desa.id/">situs toto 4d</a></p>
 <p><a href="https://www.quedice.org/">SITUS TOTO ONLINE</a></p>
 <p><a href="https://www.cityseek.org/">Toto 4D</a></p>
 <p><a href="https://www.journalistassociationofindia.org/">SITUS TOTO 4D</a></p>
@@ -89,6 +90,23 @@
 <p><a href="https://www.ciputraartpreneur.com/">Agen Togel</a></p>
 <p><a href="https://www.citralandtegal.com/">Slot Bet Kecil</a></p>
 <p><a href="https://journal.poltekad.ac.id/img/scatter-hitam/">scatter hitam</a></p>
+<p><a href="https://keyosa.com/">toto 4d</a></p>
+<p><a href="https://patients.indiancancersociety.org/">situs toto</a></p>
+<p><a href="https://yasminpuncak.com">slot bet 200</a><p>
+<p><a href="https://lasdeliciasperu.com/">NONO4D</a></p>
+<p><a href="https://nagapoipet.com/">NONO4D</a></p>
+<p><a href="https://graficasantaluzia.com/">NONO4D</a></p>
+<p><a href="https://otaldoescondidinho.com.br/">NONO4D</a></p>
+<p><a href="https://dailypeopleslifebd.com/">NONO4D</a></p>
+<p><a href="https://www.uptownstays.in/">NONO4D</a></p>
+<p><a href="https://mickmart.com/">NONO4D</a></p>
+<p><a href="http://development-solutions.eu/">NONO4D</a></p>
+<p><a href="https://svayamveda.com/">NONO4D</a></p>
+<p><a href="https://pagomasupercity.com/">NONO4D</a></p>
+<p><a href="http://riestedt-schule.de/">NONO4D</a></p>
+<p><a href="https://fatyfit.com/">NONO4D</a></p>
+<p><a href="https://hdd.one/">NONO4D</a></p>
+</div>
 
 
 
@@ -106,7 +124,6 @@
 <div style="display:none;">
 <p><a href="https://widyamataram.id/">https://widyamataram.id</a></p>
 <p><a href="https://www.unisayogya.id/">https://www.unisayogya.id</a></p>
-<p><a href="https://terunyan-desa.id/">https://terunyan-desa.id</a></p>
 <p><a href="https://www.unsrat.org/">https://www.unsrat.org</a></p>
 <p><a href="https://yayasan-trisakti.id/">https://yayasan-trisakti.id</a></p>
 </div>
