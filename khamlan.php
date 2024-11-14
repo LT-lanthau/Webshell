@@ -11,7 +11,7 @@
 <p><a href="https://www.dobojistok.org/">SITUS TOGEL HK</a></p>
 <p><a href="https://terunyan-desa.id/">situs toto 4d</a></p>
 <p><a href="https://sanwa.edu.vn/">lotto sdy</a></p>
-<p><a href="https://insymed.com/">situs toto</a></p>
+<p><a href="http://insymed.com/">situs toto</a></p>
 <p><a href="https://ulusambalajreklam.com/">link situs toto</a></p>
 <p><a href="https://alexchemical.com/">situs toto macau</a></p>
 <p><a href="https://www.quedice.org/">SITUS TOTO ONLINE</a></p>
