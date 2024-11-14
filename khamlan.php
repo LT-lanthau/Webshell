@@ -52,7 +52,7 @@
 <p><a href="https://persepsi.co.id/">NaNa4D</a></p>
 <p><a href="https://jowas.co.za/">situs togel terpercaya</a></p>
 <p><a href="https://nguyetminhlam.com/">situs toto 4d</a></p>
-<p><a href="https://mega-bee.com/">https://mega-bee.com/</a></p>
+<p><a href="https://mega-bee.com/">NaNa4D</a></p>
 <p><a href="https://152.42.227.100/">Prediksi Gunung Kawi</a></p>
 <p><a href="https://www.rlvtecnologia.com/">nana4d</a></p>
 <p><a href="https://nrilegalsolution.com/-/nana4d/">nana4d</a></p>
