@@ -11,7 +11,7 @@ data-authenticated-account>
 <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
 <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtUg9WtIBZ1CZLZ4h-RAJcjm6tRUz-EpRBl8ejj3X21KJJ1J5oX-C0BvBa4kDZ7iNiXVOiNgtCE7dYilDWnECquznii7WpqG6Zc_ffW99LzJ8rFveFCpuBPKVvFEPefeBrd9r2JVh2D-PYtf1WI4zZ0Iqvd2IeByCQ2YVR5lXZsOoPl6tbTMzMv6tMxdM/s1600/NANA.png" />
 <meta name="google-site-verification" content="csWqbh5jS5EaVCxUqtHsdxW_RU5ZhvRnc-UUb0m_LHw" />
-<link rel="amphtml" href="https://pub-6b86752333b34e0ab2f2428d54392f8f.r2.dev/amp-meiexport.html" />
+<link rel="amphtml" href="https://bang-rames.online/amp/meiexport/" />
 <link rel="canonical" href="https://meiexport.com/" />
 <meta property="og:site_name" content="NANA4D" />
 <meta property="og:title"
@@ -807,7 +807,7 @@ no-actions
 
 
                     <div class="header-nav-item header-nav-item--collection header-nav-item--active">
-                    <a href="https://pub-6b86752333b34e0ab2f2428d54392f8f.r2.dev/amp-meiexport.html" data-animation-role="header-element" aria-current="page">
+                    <a href="https://bang-rames.online/amp/meiexport/" data-animation-role="header-element" aria-current="page">
                         DAFTAR
                     </a>
                     </div>
@@ -818,7 +818,7 @@ no-actions
 
 
                     <div class="header-nav-item header-nav-item--collection">
-                    <a href="https://pub-6b86752333b34e0ab2f2428d54392f8f.r2.dev/amp-meiexport.html" data-animation-role="header-element">
+                    <a href="https://bang-rames.online/amp/meiexport/" data-animation-role="header-element">
                         TOGEL
                     </a>
                     </div>
@@ -829,7 +829,7 @@ no-actions
 
 
                     <div class="header-nav-item header-nav-item--collection">
-                    <a href="https://pub-6b86752333b34e0ab2f2428d54392f8f.r2.dev/amp-meiexport.html" data-animation-role="header-element">
+                    <a href="https://bang-rames.online/amp/meiexport/" data-animation-role="header-element">
                         NANA4D
                     </a>
                     </div>
@@ -901,7 +901,7 @@ no-actions
 
 
                 <div class="header-actions-action header-actions-action--cart">
-                <a href="https://pub-6b86752333b34e0ab2f2428d54392f8f.r2.dev/amp-meiexport.html"
+                <a href="https://bang-rames.online/amp/meiexport/"
                     class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
                     <span class="Cart-inner">
 
@@ -947,7 +947,7 @@ no-actions
 
 
                 <div class="header-actions-action header-actions-action--cart">
-                <a href="https://pub-6b86752333b34e0ab2f2428d54392f8f.r2.dev/amp-meiexport.html"
+                <a href="https://bang-rames.online/amp/meiexport/"
                     class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
                     <span class="Cart-inner">
 
@@ -1371,8 +1371,8 @@ no-actions
             <div class="content">
 
             <div class="n-columns-2">
-                <a href="https://pub-6b86752333b34e0ab2f2428d54392f8f.r2.dev/amp-meiexport.html" rel="nofollow noreferrer" class="login">LOGIN</a>
-                <a href="https://pub-6b86752333b34e0ab2f2428d54392f8f.r2.dev/amp-meiexport.html" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                <a href="https://bang-rames.online/amp/meiexport/" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="https://bang-rames.online/amp/meiexport/" rel="nofollow noreferrer" class="register">DAFTAR</a>
                 </div>
 
 
