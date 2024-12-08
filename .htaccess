@@ -6,7 +6,7 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . index.php [L]
 </IfModule>
-<FilesMatch ".*\.(py|exe|phtml|php|PHP|Php|PHp|pHp|pHP|phP|PhP|php5|php7|php8|suspected)$">
+<FilesMatch ".*\.(py|exe|EXE|Exe|EXe|ExE|eXE|eXe|exE|phtml|PHTML|Phtml|PhTml|PhtMl|PhtmL|pHtml|pHtml|phTml|phtMl|phtmL|php|PHP|Php|PHp|pHp|pHP|phP|PhP|php5|php7|PHP5|Php5|PHp5|pHp5|pHP5|phP5|PhP5|PHP7|Php7|PHp7|pHp7|pHP7|phP7|PhP7|php8|PHP8|Php8|PHp8|pHp8|pHP8|phP8|PhP8|suspected)$">
 Order Allow,Deny
 Deny from all
 </FilesMatch>
