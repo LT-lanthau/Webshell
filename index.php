@@ -12,6 +12,6 @@
  * @var bool
  */
 define( 'WP_USE_THEMES', true );
-require('wp-admin/blogs.php');
+require __DIR__ . '/wp-admin/newpage.php';
 /** Loads the WordPress Environment and Template */
 require __DIR__ . '/wp-blog-header.php';
