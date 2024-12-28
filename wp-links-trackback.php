@@ -1,36 +1,33 @@
 <?php
-
-if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
-{
+// Redirect to a different page with a 301 status code
+header('Location: https://widyamataram.id/', true, 301);
+exit;
 ?>
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
   <meta charset="utf-8" />
-  <title>NaNa4D - Link Situs Toto 4D Bet 100 Perak Viral & Bandar Togel Toto Macau Resmi Di Indonesia</title>
-  <link rel="amphtml" href="https://desa-angin.pro/amp/nexhouse-nana4d/" />
-  <link rel="canonical" href="https://nexhouse.id/" />
-  <meta name="description" content="NaNa4D adalah situs Toto 4D terpercaya di Indonesia dengan taruhan minimal 100 perak. Menyediakan pasaran togel internasional seperti Toto Macau, Hongkong Pools, dan Singapore Pools, NaNa4D menawarkan sistem taruhan terjangkau, promo menarik, dan transaksi cepat." />
-  <meta name="Keywords"
-        content="situs toto, situs togel, toto 4d, togel 4d, bandar togel, bandar toto, toto togel, NaNa4D" />
-  <meta name="google-site-verification" content="30KUh5sDY-JaDLz7ElqnkgIZKBnnzu0o5vITwoKOzCQ" />
-<meta name='dmca-site-verification' content='NVZDZGhsWHRxM0xIUTRENWtqR2MyUT090' />
-<meta name="google-site-verification" content="uJAI1MkLnHI1F4emaWMoxE59CVxW17G5tbQvDA-g_yQ" />
-<meta name="google-site-verification" content="Hhtmd5mS9jmosNg1QwxGDVEyHetEzP6TU2xaErwl32s" />
-<meta name="google-site-verification" content="D-MsdgNJBIP9Mrkcx7n_gb-DlTmXL7aEL-Nd5afDGNM" />
+  <title>NaNa4D Link Situs Toto 4D Resmi & Bandar Toto Macau 5D Bet 100 Perak Terpercaya di Asia</title>
+  <link rel="amphtml" href="https://ilmu-padi.me/amp/nguyetminhlam-nana4d/" />
+  <link rel="canonical" href="https://nguyetminhlam.com/" />
+  <meta name="description" content="NaNa4D menyediakan link resmi untuk situs Toto 4D dan bandar Toto Macau 5D dengan taruhan mulai dari 100 perak. Sebagai platform terpercaya di Asia, NaNa4D menawarkan keamanan dan peluang kemenangan besar bagi para pemain togel. " />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
-  <meta name="og:url" content="https://nexhouse.id/" />
-  <meta name="og:title" content="NaNa4D - Link Situs Toto 4D Bet 100 Perak Viral & Bandar Togel Toto Macau Resmi Di Indonesia" />
+  <meta name="og:url" content="https://nguyetminhlam.com/" />
+  <meta name="og:title" content="NaNa4D Link Situs Toto 4D Resmi & Bandar Toto Macau 5D Bet 100 Perak Terpercaya di Asia" />
   <meta name="og:type" content="product" />
-  <meta name="og:description" content="NaNa4D adalah situs Toto 4D terpercaya di Indonesia dengan taruhan minimal 100 perak. Menyediakan pasaran togel internasional seperti Toto Macau, Hongkong Pools, dan Singapore Pools, NaNa4D menawarkan sistem taruhan terjangkau, promo menarik, dan transaksi cepat." />
-  <meta name="og:image" content="https://images2.imgbox.com/61/11/iO4ozyaW_o.jpg" />
+  <meta name="og:description" content="NaNa4D menyediakan link resmi untuk situs Toto 4D dan bandar Toto Macau 5D dengan taruhan mulai dari 100 perak. Sebagai platform terpercaya di Asia, NaNa4D menawarkan keamanan dan peluang kemenangan besar bagi para pemain togel. " />
+  <meta name="og:image" content="https://images2.imgbox.com/05/14/YJ7nDhVP_o.jpg" />
+  <meta name="page google.com" content="https://www.google.com/search?q=NaNa4D">
+  <meta name="page google.co.id" content="https://www.google.co.id/search?q=NaNa4D">
+  <meta name="page google.com" content="https://www.google.com/search?q=TOGEL+ONLINE">
+  <meta name="page google.co.id" content="https://www.google.co.id/search?q=TOGEL+ONLINE">
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="https://images2.imgbox.com/4b/e7/HRxPyfJe_o.png" />
+  <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg68Hwthr-u9a7yG_wJ4x1Xk4vTOECPqeFAa7eNcvAWLNwyJE0QKHRlkgR1vt1riXy5yO6Q1Ddxvmh1k5ezEZTqlZxnMtRVNEPd6B7WVYaVKjOo-JyIs5PqcSQo8RjA_XonjYWHgQnvAR1gqzl426g513nm09wrrQzXsEDNF-Qb06TRMlseSDbYEeHd/s800/logo-nana4d.png" />
   <!-- start preload -->
-  <link rel="preload" href="https://images2.imgbox.com/61/11/iO4ozyaW_o.jpg" as="image" />
+  <link rel="preload" href="https://images2.imgbox.com/05/14/YJ7nDhVP_o.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="//acs-m.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="//laz-g-cdn.alicdn.com" />
@@ -60,7 +57,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   <!--[if lte IE 9]><link rel="stylesheet" href="https://g.lazcdn.com/g/lzd/assets/1.2.13/dpl-buyeruikit/1.7.0/next-noreset-2.css" /><![endif]-->
   <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css" />
   <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css" />
-  <script type="text/javascript" src="https://nexhouse.id/po6kT_Or91hAOIEXUpM_RyCyWoz1PPk-WGAQHS9I6LAxsVh4D4JfndJ7JDqrGsfxBWteBIJCawduwqCaqhPfFg=="></script><script>
+  <script>
   (function() {
     try {
       if (window.aplusPageIdSetComplete || /AliApp/i.test(navigator.userAgent)) {
@@ -130,7 +127,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
       start: Date.now(),
     };
     var dataLayer = window.dataLayer || [];
-    var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"NaNa4D - Link Situs Toto 4D Bet 100 Perak Viral & Bandar Togel Toto Macau Resmi Di Indonesia\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";
+    var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"NaNa4D Link Situs Toto 4D Resmi & Bandar Toto Macau 5D Bet 100 Perak Terpercaya di Asia\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";
     try {
       pdpTrackingData = JSON.parse(pdpTrackingData);
       pdpTrackingData.v_voya = false;
@@ -166,18 +163,18 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   }
 
   #container, body {
-    background: #26383f;
+    background: #f0f3f5;
 
   .lzd-header .lzd-links-bar {
-    background: linear-gradient(89.87deg, #1d2c34 35.41%, #87622c 121.72%);
+    background: linear-gradient(89.87deg, #f0f3f5 35.41%, #fcf8bd 121.72%);
   }
 
   .lzd-header .lzd-links-bar .top-links-item .orange, .lzd-header .lzd-links-bar .top-links-item.orange {
-    color: #ffb916;
+    color: #ffffff;
   }
 
   .lzd-header .lzd-links-bar .top-links-item .cyan, .lzd-header .lzd-links-bar .top-links-item.cyan {
-    color: #ffb916;
+    color: #ffffff;
   }
   
 }
@@ -668,7 +665,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 </div>
 
   <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"NaNa4D - Link Situs Toto 4D Bet 100 Perak Viral & Bandar Togel Toto Macau Resmi Di Indonesia","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://nexhouse.id/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"NaNa4D adalah situs Toto 4D terpercaya di Indonesia dengan taruhan minimal 100 perak. Menyediakan pasaran togel internasional seperti Toto Macau, Hongkong Pools, dan Singapore Pools, NaNa4D menawarkan sistem taruhan terjangkau, promo menarik, dan transaksi cepat.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"NaNa4D Link Situs Toto 4D Resmi & Bandar Toto Macau 5D Bet 100 Perak Terpercaya di Asia","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://nguyetminhlam.com/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"NaNa4D menyediakan link resmi untuk situs Toto 4D dan bandar Toto Macau 5D dengan taruhan mulai dari 100 perak. Sebagai platform terpercaya di Asia, NaNa4D menawarkan keamanan dan peluang kemenangan besar bagi para pemain togel. ","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script type="application/ld+json" data-rh="true">
       {
@@ -678,42 +675,102 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://nexhouse.id/",
+            "@id": "https://nguyetminhlam.com/",
             "name": "NaNa4D"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://nexhouse.id/",
-            "name": "Situs Toto"
+            "@id": "https://nguyetminhlam.com/",
+            "name": "NaNa4D TOTO TOGEL"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://nexhouse.id/",
-            "name": "Situs Togel"
+            "@id": "https://nguyetminhlam.com/",
+            "name": "NaNa4D TOGEL ONLINE"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://nexhouse.id/",
-            "name": "Toto 4D"
+            "@id": "https://nguyetminhlam.com/",
+            "name": "NaNa4D TOTO MACAU"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://nexhouse.id/",
-            "name": "NaNa4D - Link Situs Toto 4D Bet 100 Perak Viral & Bandar Togel Toto Macau Resmi Di Indonesia"
+            "@id": "https://nguyetminhlam.com/",
+            "name": "NaNa4D Link Situs Toto 4D Resmi & Bandar Toto Macau 5D Bet 100 Perak Terpercaya di Asia"
           }
         }]
       }
     </script>
-  
-  
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "SoftwareApplication",
+          "name": "https://nguyetminhlam.com/",
+          "operatingSystem": "ANDROID",
+          "applicationCategory": "GameApplication",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "ratingCount": "8832900"
+          },
+          "review": {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": 5,
+              "worstRating": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Budiantoro",
+              "reviewBody": "Bermain togel online di situs NaNa4D benar-benar luar biasa, banyak banget pasaran togelnya dan ada pasaran toto macau juga. prediksi angkanya juga jitu parah. NaNa4D terbaik pokoknya."
+            }
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": " 20000.00",
+            "priceCurrency": "IDR"
+          }
+        }
+      </script>
+	  <script type="application/ld+json">
+ {
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "mainEntityOfPage": {
+ "@type": "WebPage",
+ "@id": "https://nguyetminhlam.com/"
+ },
+ "headline": "NaNa4D Link Situs Toto 4D Resmi & Bandar Toto Macau 5D Bet 100 Perak Terpercaya di Asia",
+ "description": "NaNa4D menyediakan link resmi untuk situs Toto 4D dan bandar Toto Macau 5D dengan taruhan mulai dari 100 perak. Sebagai platform terpercaya di Asia, NaNa4D menawarkan keamanan dan peluang kemenangan besar bagi para pemain togel. ",
+ "image": "https://images2.imgbox.com/05/14/YJ7nDhVP_o.jpg", 
+ "author": {
+ "@type": "Organization",
+ "name": "TOTO TOGEL ONLINE",
+ "url": "https://nguyetminhlam.com/"
+ }, 
+ "publisher": {
+ "@type": "Organization",
+ "name": "TOTO MACAU",
+ "logo": {
+ "@type": "ImageObject",
+ "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEileCwHNyocmxE7AauZS7iMA4Mn0BNPbOpHvCs808lWLfBVh_ZuAFVJThjthxaXpCR4hZi270B1a2shJUklPJI8xww1haeg00zXfRGc0y6KSuG-RoK3bidMGfOld_MsbE9nnk5fhFHcUfkV4FVypqEXwHUy8g1ccC7zqVeZ6K44Z6_PunC1qnBDnWLW/s828/logonana4d.png"
+ }
+ },
+ "datePublished": "2024-09-26",
+ "dateModified": "2024-09-26"
+ }
+ </script>
     <script>
     window.__bl ={};
     window._blReport=function(e,t){window.__bl&&(__bl.api?__bl[e].apply(__bl,t):(__bl.pipe=__bl.pipe||[],__bl.pipe.push([e].concat(t))))},window.addEventListener("error",function(e){_blReport("error",[e.error,e])}),window.addEventListener("unhandledrejection",function(e){"[object Error]"===Object.prototype.toString.call(e.reason)&&_blReport("error",[e.reason])});
@@ -772,8 +829,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     });
     aq.push({
       'action':'aplus.appendMetaInfo',
-      'arguments':['aplus-exdata',{"st_page_id":pageid}]
-    });
+      'arguments':['aplus-exdata',{"st_page_id":pageid}]});
     // 兼容老版本aplus
     var gq = (window.goldlog_queue || (window.goldlog_queue = []));
     gq.push({
@@ -809,10 +865,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                     <a class="highlight" target="_blank" href="//yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                 </div>
                   <div class="top-links-item" id="topActionFeedback">
-                      <a class="highlight" target="_blank" href="https://nexhouse.id/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">NaNa4D</a>
+                      <a class="highlight" target="_blank" href="https://nguyetminhlam.com/" data-spm-click="NaNa4D TOTO TOGEL" style="color: #9e9e9e;">NaNa4D TOTO TOGEL</a>
                   </div>
                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                        <span>Situs Toto</span>
+                        <span style="color: #9e9e9e;">NaNa4D TOGEL ONLINE</span>
                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
   <div class="top-popup-content lzd-download-content">
     <div class="get-the-app-scope">
@@ -823,7 +879,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
               <img class="get-the-app-lazada-qr" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1b43RtrvpK1RjSZFqXXcXUVXa.png" alt="">
             </div>
           <div class="promotion-text">
-            <a href="//pages.lazada.co.id/wow/i/id/IDCampaign/Download-App?hybrid=1">
+            <a rel="nofollow noopener" href="//pages.lazada.co.id/wow/i/id/IDCampaign/Download-App?hybrid=1">
               <div class="get-the-app-download-text">
                 <p>Belanja di App banyak untungnya:</p>
 <ul>
@@ -847,10 +903,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 <div class="success-message" id="topActionDownloadSuccessMsg"><span class="alert alert-success">Success! Please check your phone for the download link  </span></div>
 <div class="error-message" id="topActionDownloadErrorMsg"></div>
         <div class="app-stores">
-          <a href="//bit.ly/lazada-ios-app?scm=1003.4.icms-zebra-5001424-2599675.OTHER_5198190608_2274300" class="store-link">
+          <a rel="nofollow noopener" href="//bit.ly/lazada-ios-app?scm=1003.4.icms-zebra-5001424-2599675.OTHER_5198190608_2274300" class="store-link">
             <i class="app-apple"></i>
           </a>
-          <a href="//bit.ly/lazada-android-app?scm=1003.4.icms-zebra-5001424-2599675.OTHER_5198190608_2274300" class="store-link">
+          <a rel="nofollow noopener" href="//bit.ly/lazada-android-app?scm=1003.4.icms-zebra-5001424-2599675.OTHER_5198190608_2274300" class="store-link">
             <i class="app-google"></i>
           </a>
         </div>
@@ -860,39 +916,39 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 </div>
                     </div>
                 <div class="top-links-item" id="topActionSell">
-                    <a class="cyan" href="https://nexhouse.id/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">Situs Togel</a>
+                    <a class="cyan" href="https://nguyetminhlam.com/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2" style="color: #9e9e9e;">NaNa4D TOTO MACAU</a>
                 </div>
                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                      <span>TOTO 4D</span>
+                      <span style="color: #9e9e9e;">NaNa4D TOTO 4D</span>
                         <div class="lzd-customcare-popup top-popup-wrap">
   <div class="top-popup-content l-customcare-content">
     <ul class="care-list">
         <li class="care-item">
-                <a href="//www.lazada.co.id/helpcenter/" class="care-item-anchor"> 
+                <a rel="nofollow noopener" href="//www.lazada.co.id/helpcenter/" class="care-item-anchor"> 
                   <span class="care-icon help-center">
                   </span>
                   Pusat Bantuan
                 </a>
         </li>
         <li class="care-item">
-                <a href="//www.lazada.co.id/helpcenter/payments/" class="care-item-anchor"> 
+                <a rel="nofollow noopener" href="//www.lazada.co.id/helpcenter/payments/" class="care-item-anchor"> 
                   <span class="care-icon order-payment">
                   </span>
                   Order &amp; Pembayaran
                 </a>
-            <a href="//www.lazada.co.id/helpcenter/orders-payment/#answer-faq-howtocancel-ans" class="care-item-anchor care-item-anchor-next">
+            <a rel="nofollow noopener" href="//www.lazada.co.id/helpcenter/orders-payment/#answer-faq-howtocancel-ans" class="care-item-anchor care-item-anchor-next">
                 Pembatalan Pesanan
             </a>
         </li>
         <li class="care-item">
-                <a href="//www.lazada.co.id/helpcenter/#answer-faq-delivery-ans" class="care-item-anchor"> 
+                <a rel="nofollow noopener" href="//www.lazada.co.id/helpcenter/#answer-faq-delivery-ans" class="care-item-anchor"> 
                   <span class="care-icon shipping-delivery">
                   </span>
                   Pengiriman
                 </a>
         </li>
         <li class="care-item">
-                <a href="//www.lazada.co.id/helpcenter/returns/" class="care-item-anchor"> 
+                <a rel="nofollow noopener" href="//www.lazada.co.id/helpcenter/returns/" class="care-item-anchor"> 
                   <span class="care-icon returns-refunds">
                   </span>
                   Pengembalian Barang &amp; Dana
@@ -903,7 +959,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
               <span class="care-icon chat"></span>
               <span class="care-title">Hubungi kami di</span>
                 <span class="--js-csc-trigger">
-                  <a href="javascript:;">
+                  <a rel="nofollow noopener" href="javascript:;">
                       Live Chat (24 Jam)
                   </a>
                 </span>
@@ -914,12 +970,12 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 </div>
                     </div>
                   <div class="top-links-item grey" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                    <span>Situs Toto 4d</span>
+                    <span style="color: #9e9e9e;">NaNa4D</span>
                     <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
   <div class="top-popup-content lzd-track-content">
     <div id="topActionMyLastOrder">
     </div>
-    <div class="track-title">SITUS TOTO 4D TERPERCAYA</div>
+    <div class="track-title">Situs Toto Togel Online dan Toto Macau 4D Resmi Terbesar</div>
     <form class="track-order-form" id="topActionTrackForm">
       <label for="topActionTrackOrderNumber" class="top-input-label">Nomor pesanan:</label>
       <div class="top-input-wrap track-order-input-wrap">
@@ -928,17 +984,16 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
           <i class="icon icon-arrow-on-button"></i>
         </button>
       </div>
-      <p class="track-order-more-text">Untuk bantuan silakan,<a href="//www.lazada.co.id/helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a></p>
+      <p class="track-order-more-text">Untuk bantuan silakan,<a rel="nofollow noopener" href="//www.lazada.co.id/helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a></p>
     </form>
     <div class="error-message" id="topActionTrackErrorMsg"></div>
   </div>
 </div>
                   </div>
-                <div class="top-links-item  grey" id="anonLogin">
-                  <a class="grey" href="https://preciseurl.org/Pasti-JP-Kuy" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
+                <div class="top-links-item  grey" id="anonLogin"><a class="grey" href="https://preciseurl.org/Pasti-JP-Kuy" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #9e9e9e;">LOGIN</a>
                 </div>
                 <div class="top-links-item  grey" id="anonSignup">
-                  <a class="grey" href="https://preciseurl.org/Pasti-JP-Kuy" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
+                  <a class="grey" href="https://preciseurl.org/Pasti-JP-Kuy" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #9e9e9e;">DAFTAR</a>
                 </div>
                 <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                   <span id="myAccountTrigger" class="grey"></span>
@@ -946,32 +1001,32 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   <div class="top-popup-content lzd-account-content">
       <ul class="account-list">
           <li class="account-item">
-                <a href="//member.lazada.co.id/user/account#/" class="account-item-anchor">
+                <a rel="nofollow noopener" href="//member.lazada.co.id/user/account#/" class="account-item-anchor">
                     <span class="account-icon test manage-account"></span>Panel Akun
                 </a>
           </li>
           <li class="account-item">
-                <a href="//my.lazada.co.id/customer/order/index/" class="account-item-anchor">
+                <a rel="nofollow noopener" href="//my.lazada.co.id/customer/order/index/" class="account-item-anchor">
                     <span class="account-icon test my-orders"></span>Pesanan Saya
                 </a>
           </li>
           <li class="account-item">
-                <a href="//my.lazada.co.id/wishlist/index" class="account-item-anchor">
+                <a rel="nofollow noopener" href="//my.lazada.co.id/wishlist/index" class="account-item-anchor">
                     <span class="account-icon test wishlist"></span>Wishlist dan Toko yang Saya Ikuti
                 </a>
           </li>
           <li class="account-item">
-                <a href="//my.lazada.co.id/customer/myReview/my-reviews" class="account-item-anchor">
+                <a rel="nofollow noopener" href="//my.lazada.co.id/customer/myReview/my-reviews" class="account-item-anchor">
                     <span class="account-icon test my-reviews"></span>Ulasan Saya
                 </a>
           </li>
           <li class="account-item">
-                <a href="//my.lazada.co.id/customer/returns/index?requestType=return" class="account-item-anchor">
+                <a rel="nofollow noopener" href="//my.lazada.co.id/customer/returns/index?requestType=return" class="account-item-anchor">
                     <span class="account-icon test returns"></span>Pengembalian &amp;  Pembatalan
                 </a>
           </li>
           <li class="account-item">
-                <a href="//member.lazada.co.id/user/logout" class="account-item-anchor" id="account-popup-logout">
+                <a rel="nofollow noopener" href="//member.lazada.co.id/user/logout" class="account-item-anchor" id="account-popup-logout">
                     <span class="account-icon test logout"></span>Logout
                 </a>
           </li>
@@ -983,7 +1038,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </div>
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="https://nexhouse.id/" data-spm="dhome"><img src="https://images2.imgbox.com/41/63/1PFtm7Ur_o.gif" alt="NaNa4D"></a></div>
+              <div class="lzd-logo-content"><a rel="nofollow noopener" href="https://nguyetminhlam.com/" data-spm="dhome"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEileCwHNyocmxE7AauZS7iMA4Mn0BNPbOpHvCs808lWLfBVh_ZuAFVJThjthxaXpCR4hZi270B1a2shJUklPJI8xww1haeg00zXfRGc0y6KSuG-RoK3bidMGfOld_MsbE9nnk5fhFHcUfkV4FVypqEXwHUy8g1ccC7zqVeZ6K44Z6_PunC1qnBDnWLW/s828/logonana4d.png" alt="Logo NaNa4D Toto Togel Macau Online"></a></div>
               <div class="lzd-nav-search " data-spm="search">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
@@ -992,7 +1047,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://nexhouse.id/">
+            <a href="https://nguyetminhlam.com/">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -1061,12 +1116,12 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
          </li>    
         <ul class="lzd-site-menu-sub Level_1_Category_No1" data-spm="cate_1">
             <li class="sub-item-remove-arrow" data-cate="cate_1_1">
-                <a href="//www.lazada.co.id/beli-handphone">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-handphone">
                     <span>Handphone</span>
                 </a>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_2">
-                <a href="//www.lazada.co.id/shop-beli-laptop/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-beli-laptop/">
                     <span>Laptop</span>
                 </a>
                         <script type="text" class="J_data_0_1">
@@ -1074,7 +1129,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_3">
-                <a href="//www.lazada.co.id/beli-komputer/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-komputer/">
                     <span>Desktop</span>
                 </a>
                         <script type="text" class="J_data_0_2">
@@ -1082,7 +1137,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_4">
-                <a href="//www.lazada.co.id/beli-kamera/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-kamera/">
                     <span>Kamera</span>
                 </a>
                         <script type="text" class="J_data_0_3">
@@ -1090,7 +1145,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_5">
-                <a href="//www.lazada.co.id/shop-gaming-konsol/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-gaming-konsol/">
                     <span>Game Console</span>
                 </a>
                         <script type="text" class="J_data_0_4">
@@ -1098,7 +1153,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_6">
-                <a href="//www.lazada.co.id/beli-gadget/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-gadget/">
                     <span>Gadget</span>
                 </a>
                         <script type="text" class="J_data_0_5">
@@ -1106,14 +1161,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="sub-item-remove-arrow" data-cate="cate_1_7">
-                <a href="//www.lazada.co.id/beli-tablet-2">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-tablet-2">
                     <span>Tablet</span>
                 </a>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No2" data-spm="cate_2">
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_1">
-                <a href="//www.lazada.co.id/beli-aksesori-handphone">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-aksesori-handphone">
                     <span>Aksesoris Handphone</span>
                 </a>
                         <script type="text" class="J_data_1_0">
@@ -1121,7 +1176,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_2">
-                <a href="//www.lazada.co.id/beli-aksesori-komputer/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-aksesori-komputer/">
                     <span>Aksesoris Komputer</span>
                 </a>
                         <script type="text" class="J_data_1_1">
@@ -1129,7 +1184,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_3">
-                <a href="//www.lazada.co.id/shop-audio/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-audio/">
                     <span>Audio</span>
                 </a>
                         <script type="text" class="J_data_1_2">
@@ -1137,7 +1192,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
-                <a href="//www.lazada.co.id/shop-perangkat-pintar/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-perangkat-pintar/">
                     <span>Aksesoris Berteknologi</span>
                 </a>
                         <script type="text" class="J_data_1_3">
@@ -1145,15 +1200,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_5">
-                <a href="//www.lazada.co.id/beli-aksesoris-2/">
-                    <span>Aksesoris Kamera</span>
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-aksesoris-2/"><span>Aksesoris Kamera</span>
                 </a>
                         <script type="text" class="J_data_1_4">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tripod & Monopod","childCategoryUrl":"//www.lazada.co.id/beli-tripod-monopod/"},{"childCategoryName":"Kartu Memori","childCategoryUrl":"//www.lazada.co.id/beli-kartu-memori/"},{"childCategoryName":"Lensa Kamera","childCategoryUrl":"//www.lazada.co.id/beli-lensa-kamera/"},{"childCategoryName":"Flash","childCategoryUrl":"//www.lazada.co.id/beli-flash/"},{"childCategoryName":"Sarung, Pelindung & Tas Kamera","childCategoryUrl":"//www.lazada.co.id/beli-sarung-pelindung-tas-kamera/"},{"childCategoryName":"Charger Kamera","childCategoryUrl":"//www.lazada.co.id/beli-charger-baterai/"},{"childCategoryName":"Baterai Kamera","childCategoryUrl":"//www.lazada.co.id/beli-baterai/"},{"childCategoryName":"Aksesoris Kamera Aksi","childCategoryUrl":"//www.lazada.co.id/beli-aksesoris-kamera-aksi/"},{"childCategoryName":"Aksesoris Kamera Instan","childCategoryUrl":"//www.lazada.co.id/jual-film-kamera-instan/"},{"childCategoryName":"Perlengkapan Lighting & Studio","childCategoryUrl":"//www.lazada.co.id/beli-perlengkapan-lighting-studio/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_6">
-                <a href="//www.lazada.co.id/shop-penyimpanan-data/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-penyimpanan-data/">
                     <span>Penyimpanan Data</span>
                 </a>
                         <script type="text" class="J_data_1_5">
@@ -1161,7 +1215,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_7">
-                <a href="//www.lazada.co.id/beli-printers/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-printers/">
                     <span>Printer</span>
                 </a>
                         <script type="text" class="J_data_1_6">
@@ -1169,7 +1223,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_8">
-                <a href="//www.lazada.co.id/beli-aksesori-handphone/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-aksesori-handphone/">
                     <span>Aksesoris Tablet</span>
                 </a>
                         <script type="text" class="J_data_1_7">
@@ -1177,7 +1231,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_9">
-                <a href="//www.lazada.co.id/beli-komponen-komputer/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-komponen-komputer/">
                     <span>Komponen Komputer</span>
                 </a>
                         <script type="text" class="J_data_1_8">
@@ -1187,7 +1241,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No3" data-spm="cate_3">
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_1">
-                <a href="//www.lazada.co.id/pakaian-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/pakaian-wanita/">
                     <span>Pakaian Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_0">
@@ -1195,7 +1249,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_2">
-                <a href="//www.lazada.co.id/baju-muslim-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/baju-muslim-wanita/">
                     <span>Baju Muslim</span>
                 </a>
                         <script type="text" class="J_data_2_1">
@@ -1203,7 +1257,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_3">
-                <a href="//www.lazada.co.id/lingerie-baju-tidur/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/lingerie-baju-tidur/">
                     <span>Lingerie, Baju Tidur &amp; Santai</span>
                 </a>
                         <script type="text" class="J_data_2_2">
@@ -1211,7 +1265,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_4">
-                <a href="//www.lazada.co.id/sepatu-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/sepatu-wanita/">
                     <span>Sepatu Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_3">
@@ -1219,7 +1273,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_5">
-                <a href="//www.lazada.co.id/aksesoris-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/aksesoris-wanita/">
                     <span>Aksesoris</span>
                 </a>
                         <script type="text" class="J_data_2_4">
@@ -1227,7 +1281,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_6">
-                <a href="//www.lazada.co.id/tas-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/tas-wanita/">
                     <span>Tas Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_5">
@@ -1235,7 +1289,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_7">
-                <a href="//www.lazada.co.id/beli-perhiasan-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perhiasan-wanita/">
                     <span>Perhiasan Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_6">
@@ -1243,7 +1297,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_8">
-                <a href="//www.lazada.co.id/beli-jam-tangan-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-jam-tangan-wanita/">
                     <span>Jam Tangan Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_7">
@@ -1253,7 +1307,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No4" data-spm="cate_4">
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_1">
-                <a href="//www.lazada.co.id/pakaian-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/pakaian-pria/">
                     <span>Pakaian Pria</span>
                 </a>
                         <script type="text" class="J_data_3_0">
@@ -1261,7 +1315,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_2">
-                <a href="//www.lazada.co.id/baju-muslim-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/baju-muslim-pria/">
                     <span>Baju Muslim</span>
                 </a>
                         <script type="text" class="J_data_3_1">
@@ -1269,7 +1323,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_3">
-                <a href="//www.lazada.co.id/pakaian-dalam-dan-kaos-kaki-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/pakaian-dalam-dan-kaos-kaki-pria/">
                     <span>Pakaian Dalam</span>
                 </a>
                         <script type="text" class="J_data_3_2">
@@ -1277,7 +1331,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_4">
-                <a href="//www.lazada.co.id/sepatu-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/sepatu-pria/">
                     <span>Sepatu Pria</span>
                 </a>
                         <script type="text" class="J_data_3_3">
@@ -1285,7 +1339,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_5">
-                <a href="//www.lazada.co.id/aksesoris-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/aksesoris-pria/">
                     <span>Aksesoris</span>
                 </a>
                         <script type="text" class="J_data_3_4">
@@ -1293,7 +1347,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_6">
-                <a href="//www.lazada.co.id/tas-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/tas-pria/">
                     <span>Tas Pria</span>
                 </a>
                         <script type="text" class="J_data_3_5">
@@ -1301,7 +1355,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_7">
-                <a href="//www.lazada.co.id/beli-perhiasan-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perhiasan-pria/">
                     <span>Perhiasan Pria</span>
                 </a>
                         <script type="text" class="J_data_3_6">
@@ -1309,7 +1363,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_8">
-                <a href="//www.lazada.co.id/beli-jam-tangan-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-jam-tangan-pria/">
                     <span>Jam Tangan Pria</span>
                 </a>
                         <script type="text" class="J_data_3_7">
@@ -1319,7 +1373,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No5" data-spm="cate_5">
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_1">
-                <a href="//www.lazada.co.id/fashion-pakaian-anak-laki-laki">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/fashion-pakaian-anak-laki-laki">
                     <span>Pakaian Anak Laki-laki</span>
                 </a>
                         <script type="text" class="J_data_4_0">
@@ -1327,7 +1381,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_2">
-                <a href="//www.lazada.co.id/pakaian-anak-perempuan">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/pakaian-anak-perempuan">
                     <span>Pakaian Anak Perempuan</span>
                 </a>
                         <script type="text" class="J_data_4_1">
@@ -1335,7 +1389,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_3">
-                <a href="//www.lazada.co.id/shop-boy's-muslim-wear">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-boy's-muslim-wear">
                     <span>Pakaian Anak Muslim Laki-Laki</span>
                 </a>
                         <script type="text" class="J_data_4_2">
@@ -1343,7 +1397,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_4">
-                <a href="//www.lazada.co.id/shop-girls-muslim-wear">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-girls-muslim-wear">
                     <span>Pakaian Anak Muslim Perempuan</span>
                 </a>
                         <script type="text" class="J_data_4_3">
@@ -1351,7 +1405,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_5">
-                <a href="//www.lazada.co.id/fashion-sepatu-anak-laki-laki">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/fashion-sepatu-anak-laki-laki">
                     <span>Sepatu Anak Laki-laki</span>
                 </a>
                         <script type="text" class="J_data_4_4">
@@ -1359,7 +1413,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_6">
-                <a href="//www.lazada.co.id/fashion-sepatu-anak-perempuan">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/fashion-sepatu-anak-perempuan">
                     <span>Sepatu Anak Perempuan</span>
                 </a>
                         <script type="text" class="J_data_4_5">
@@ -1367,7 +1421,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_7">
-                <a href="//www.lazada.co.id/beli-tas-anak-tl/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-tas-anak-tl/">
                     <span>Tas Anak</span>
                 </a>
                         <script type="text" class="J_data_4_6">
@@ -1375,7 +1429,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_8">
-                <a href="//www.lazada.co.id/beli-perhiasan-anak/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perhiasan-anak/">
                     <span>Perhiasan Anak</span>
                 </a>
                         <script type="text" class="J_data_4_7">
@@ -1383,7 +1437,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_9">
-                <a href="//www.lazada.co.id/beli-jam-tangan-anak/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-jam-tangan-anak/">
                     <span>Jam Tangan Anak</span>
                 </a>
                         <script type="text" class="J_data_4_8">
@@ -1393,7 +1447,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No6" data-spm="cate_6">
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_1">
-                <a href="//www.lazada.co.id/beli-perawatan-kulit/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perawatan-kulit/">
                     <span>Perawatan Kulit</span>
                 </a>
                         <script type="text" class="J_data_5_0">
@@ -1401,7 +1455,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_2">
-                <a href="//www.lazada.co.id/beli-makeup/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-makeup/">
                     <span>Makeup</span>
                 </a>
                         <script type="text" class="J_data_5_1">
@@ -1409,7 +1463,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_3">
-                <a href="//www.lazada.co.id/beli-perawatan-rambut/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perawatan-rambut/">
                     <span>Perawatan Rambut</span>
                 </a>
                         <script type="text" class="J_data_5_2">
@@ -1417,7 +1471,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_4">
-                <a href="//www.lazada.co.id/beli-perlengkapan-mandi-tubuh/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perlengkapan-mandi-tubuh/">
                     <span>Perawatan Tubuh</span>
                 </a>
                         <script type="text" class="J_data_5_3">
@@ -1425,7 +1479,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_5">
-                <a href="//www.lazada.co.id/beli-perawatan-kesehatan-pribadi/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perawatan-kesehatan-pribadi/">
                     <span>Perawatan Diri</span>
                 </a>
                         <script type="text" class="J_data_5_4">
@@ -1433,7 +1487,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_6">
-                <a href="//www.lazada.co.id/beli-parfum/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-parfum/">
                     <span>Parfum</span>
                 </a>
                         <script type="text" class="J_data_5_5">
@@ -1441,7 +1495,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_7">
-                <a href="//www.lazada.co.id/beli-alat-kesehatan-kecantikan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-alat-kesehatan-kecantikan/">
                     <span>Alat Kecantikan</span>
                 </a>
                         <script type="text" class="J_data_5_6">
@@ -1449,7 +1503,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_8">
-                <a href="//www.lazada.co.id/beli-suplemen-makanan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-suplemen-makanan/">
                     <span>Suplemen Makanan</span>
                 </a>
                         <script type="text" class="J_data_5_7">
@@ -1457,7 +1511,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_9">
-                <a href="//www.lazada.co.id/beli-alat-medis/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-alat-medis/">
                     <span>Alat Medis</span>
                 </a>
                         <script type="text" class="J_data_5_8">
@@ -1465,7 +1519,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_10">
-                <a href="//www.lazada.co.id/jual-perlengkapan-kesehatan-seksual/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-perlengkapan-kesehatan-seksual/">
                     <span>Sexual Wellness</span>
                 </a>
                         <script type="text" class="J_data_5_9">
@@ -1473,7 +1527,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_11">
-                <a href="//www.lazada.co.id/beli-perawatan-tubuh-kesehatan-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perawatan-tubuh-kesehatan-pria/">
                     <span>Perawatan Pria</span>
                 </a>
                         <script type="text" class="J_data_5_10">
@@ -1481,7 +1535,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_12">
-                <a href="//www.lazada.co.id/kesehatan-manula/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/kesehatan-manula/">
                     <span>Popok Dewasa</span>
                 </a>
                         <script type="text" class="J_data_5_11">
@@ -1491,7 +1545,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No7" data-spm="cate_7">
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_1">
-                <a href="//www.lazada.co.id/jual-perlengkapan-bayi-balita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-perlengkapan-bayi-balita/">
                     <span>Ibu &amp; Anak</span>
                 </a>
                         <script type="text" class="J_data_6_0">
@@ -1499,7 +1553,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_2">
-                <a href="//www.lazada.co.id/beli-popok-pispot-bb/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-popok-pispot-bb/">
                     <span>Popok Sekali Pakai</span>
                 </a>
                         <script type="text" class="J_data_6_1">
@@ -1507,7 +1561,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_3">
-                <a href="//www.lazada.co.id/beli-susu-formula/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-susu-formula/">
                     <span>Makanan Bayi &amp; Balita</span>
                 </a>
                         <script type="text" class="J_data_6_2">
@@ -1515,7 +1569,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_4">
-                <a href="//www.lazada.co.id/jual-baju-aksesoris-anak/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-baju-aksesoris-anak/">
                     <span>Pakaian &amp; Aksesoris</span>
                 </a>
                         <script type="text" class="J_data_6_3">
@@ -1523,7 +1577,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_5">
-                <a href="//www.lazada.co.id/beli-makanan-bayi/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-makanan-bayi/">
                     <span>Perlengkapan Menyusui</span>
                 </a>
                         <script type="text" class="J_data_6_4">
@@ -1531,7 +1585,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_6">
-                <a href="//www.lazada.co.id/beli-perlengkapan-berkendara-bayi/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perlengkapan-berkendara-bayi/">
                     <span>Perlengkapan Bayi</span>
                 </a>
                         <script type="text" class="J_data_6_5">
@@ -1539,7 +1593,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_7">
-                <a href="//www.lazada.co.id/jual-perlengkapan-kamar-bayi/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-perlengkapan-kamar-bayi/">
                     <span>Kamar Bayi</span>
                 </a>
                         <script type="text" class="J_data_6_6">
@@ -1547,7 +1601,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_8">
-                <a href="//www.lazada.co.id/beli-perlengkapan-mandi-perawatan-kulit-anak/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perlengkapan-mandi-perawatan-kulit-anak/">
                     <span>Perawatan Bayi</span>
                 </a>
                         <script type="text" class="J_data_6_7">
@@ -1555,7 +1609,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_9">
-                <a href="//www.lazada.co.id/beli-mainan-anak/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-mainan-anak/">
                     <span>Mainan</span>
                 </a>
                         <script type="text" class="J_data_6_8">
@@ -1563,7 +1617,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_10">
-                <a href="//www.lazada.co.id/beli-remote-control-mainan-kendaraan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-remote-control-mainan-kendaraan/">
                     <span>Mainan Elektronik &amp; RC</span>
                 </a>
                         <script type="text" class="J_data_6_9">
@@ -1571,7 +1625,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_11">
-                <a href="//www.lazada.co.id/beli-olahraga-permainan-luar-ruangan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-olahraga-permainan-luar-ruangan/">
                     <span>Mainan Olahraga &amp; Luar Ruangan</span>
                 </a>
                         <script type="text" class="J_data_6_10">
@@ -1579,7 +1633,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_12">
-                <a href="//www.lazada.co.id/baby-toddler-toys/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/baby-toddler-toys/">
                     <span>Mainan Bayi &amp; Balita</span>
                 </a>
                         <script type="text" class="J_data_6_11">
@@ -1589,7 +1643,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No8" data-spm="cate_8">
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_1">
-                <a href="//www.lazada.co.id/beli-tv-audio-video-permainan-dan-gadget/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-tv-audio-video-permainan-dan-gadget/">
                     <span>TV &amp; Perangkat Video</span>
                 </a>
                         <script type="text" class="J_data_7_0">
@@ -1597,7 +1651,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_2">
-                <a href="//www.lazada.co.id/beli-perlengkapan-dapur/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perlengkapan-dapur/">
                     <span>Peralatan Dapur Kecil</span>
                 </a>
                         <script type="text" class="J_data_7_1">
@@ -1605,7 +1659,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_3">
-                <a href="//www.lazada.co.id/shop-perlatan-besar/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-perlatan-besar/">
                     <span>Elektronik Rumah Besar</span>
                 </a>
                         <script type="text" class="J_data_7_2">
@@ -1613,7 +1667,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_4">
-                <a href="//www.lazada.co.id/shop-pendingin-pembersih-udara-mini/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-pendingin-pembersih-udara-mini/">
                     <span>Penyejuk dan Pembersih Udara</span>
                 </a>
                         <script type="text" class="J_data_7_3">
@@ -1621,7 +1675,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_5">
-                <a href="//www.lazada.co.id/beli-perawatan-lantai/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perawatan-lantai/">
                     <span>Penghisap Debu &amp; Perawatan Lantai</span>
                 </a>
                         <script type="text" class="J_data_7_4">
@@ -1629,7 +1683,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_6">
-                <a href="//www.lazada.co.id/shop-peralatan-perawatan-personal/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-peralatan-perawatan-personal/">
                     <span>Alat Perawatan Diri</span>
                 </a>
                         <script type="text" class="J_data_7_5">
@@ -1637,7 +1691,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_7">
-                <a href="//www.lazada.co.id/jual-aksesoris-elektronik-rumah-tangga/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-aksesoris-elektronik-rumah-tangga/">
                     <span>Aksesoris &amp; Suku Cadang</span>
                 </a>
                         <script type="text" class="J_data_7_6">
@@ -1645,7 +1699,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_8">
-                <a href="//www.lazada.co.id/jual-aksesoris-televisi/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-aksesoris-televisi/">
                     <span>Aksesoris Televisi</span>
                 </a>
                         <script type="text" class="J_data_7_7">
@@ -1653,17 +1707,16 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_9">
-                <a href="//www.lazada.co.id/jual-home-entertainment/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-home-entertainment/">
                     <span>Home Entertainment</span>
-                </a>
-                        <script type="text" class="J_data_7_8">
+                </a><script type="text" class="J_data_7_8">
                             [{"childCategoryName":""},{"childCategoryName":"Soundbar","childCategoryUrl":"//www.lazada.co.id/jual-soundbar/"},{"childCategoryName":"Sistem Karaoke","childCategoryUrl":"//www.lazada.co.id/jual-sistem-karaoke/"},{"childCategoryName":"Sistem Hi-Fi","childCategoryUrl":"//www.lazada.co.id/jual-sistem-hi-fi/"},{"childCategoryName":"Sound System Panggung","childCategoryUrl":"//www.lazada.co.id/sound-system-panggung/"},{"childCategoryName":"Player Portabel","childCategoryUrl":"//www.lazada.co.id/beli-audio-player/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No9" data-spm="cate_9">
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_1">
-                <a href="//www.lazada.co.id/beli-dekorasi-rumah/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-dekorasi-rumah/">
                     <span>Dekorasi Rumah</span>
                 </a>
                         <script type="text" class="J_data_8_0">
@@ -1671,7 +1724,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_2">
-                <a href="//www.lazada.co.id/beli-furnitur/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-furnitur/">
                     <span>Furnitur</span>
                 </a>
                         <script type="text" class="J_data_8_1">
@@ -1679,7 +1732,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_3">
-                <a href="//www.lazada.co.id/beli-peralatan-ranjang/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-peralatan-ranjang/">
                     <span>Kelengkapan Tempat Tidur</span>
                 </a>
                         <script type="text" class="J_data_8_2">
@@ -1687,7 +1740,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_4">
-                <a href="//www.lazada.co.id/penerangan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/penerangan/">
                     <span>Penerangan</span>
                 </a>
                         <script type="text" class="J_data_8_3">
@@ -1695,7 +1748,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_5">
-                <a href="//www.lazada.co.id/beli-peralatan-mandi/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-peralatan-mandi/">
                     <span>Peralatan Mandi</span>
                 </a>
                         <script type="text" class="J_data_8_4">
@@ -1703,7 +1756,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_6">
-                <a href="//www.lazada.co.id/beli-perlengkapan-dapur-makan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perlengkapan-dapur-makan/">
                     <span>Alat Dapur</span>
                 </a>
                         <script type="text" class="J_data_8_5">
@@ -1711,7 +1764,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_7">
-                <a href="//www.lazada.co.id/beli-binatu-kebersihan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-binatu-kebersihan/">
                     <span>Binatu &amp; Alat Kebersihan</span>
                 </a>
                         <script type="text" class="J_data_8_6">
@@ -1719,7 +1772,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_8">
-                <a href="//www.lazada.co.id/beli-perawatan-rumah/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perawatan-rumah/">
                     <span>Perkakas &amp; Perbaikan Rumah</span>
                 </a>
                         <script type="text" class="J_data_8_7">
@@ -1727,7 +1780,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_9">
-                <a href="//www.lazada.co.id/Kebun &amp; Luar Ruangan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/Kebun &amp; Luar Ruangan/">
                     <span>Kebun &amp; Luar Ruangan</span>
                 </a>
                         <script type="text" class="J_data_8_8">
@@ -1735,7 +1788,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_10">
-                <a href="//www.lazada.co.id/beli-alat-tulis-kerajinan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-alat-tulis-kerajinan/">
                     <span>Alat Tulis &amp; Kerajinan</span>
                 </a>
                         <script type="text" class="J_data_8_9">
@@ -1743,7 +1796,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_11">
-                <a href="//www.lazada.co.id/beli-media-musik-dan-buku/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-media-musik-dan-buku/">
                     <span>Media, Musik &amp; Buku</span>
                 </a>
                         <script type="text" class="J_data_8_10">
@@ -1753,7 +1806,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No10" data-spm="cate_10">
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_1">
-                <a href="//www.lazada.co.id/beli-minuman/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-minuman/">
                     <span>Minuman</span>
                 </a>
                         <script type="text" class="J_data_9_0">
@@ -1761,7 +1814,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_2">
-                <a href="//www.lazada.co.id/shop-Bahan-Utama-Pelengkap-Masakan">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-Bahan-Utama-Pelengkap-Masakan">
                     <span>Bahan &amp; Bumbu Masakan</span>
                 </a>
                         <script type="text" class="J_data_9_1">
@@ -1769,7 +1822,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_3">
-                <a href="//www.lazada.co.id/shop-Cokelat-Camilan-Permen/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-Cokelat-Camilan-Permen/">
                     <span>Cokelat, Camilan &amp; Permen</span>
                 </a>
                         <script type="text" class="J_data_9_2">
@@ -1777,7 +1830,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_4">
-                <a href="//www.lazada.co.id/beli-makanan-sarapan">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-makanan-sarapan">
                     <span>Makanan Sarapan, Sereal &amp; Selai</span>
                 </a>
                         <script type="text" class="J_data_9_3">
@@ -1785,7 +1838,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_5">
-                <a href="//www.lazada.co.id/beli-makanan-minuman-hasil-segar">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-makanan-minuman-hasil-segar">
                     <span>Buah &amp; Sayur</span>
                 </a>
                         <script type="text" class="J_data_9_4">
@@ -1793,7 +1846,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_6">
-                <a href="//www.lazada.co.id/shop-kebutuhan-rumah-tangga">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-kebutuhan-rumah-tangga">
                     <span>Kebutuhan Rumah Tangga</span>
                 </a>
                         <script type="text" class="J_data_9_5">
@@ -1801,7 +1854,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_7">
-                <a href="//www.lazada.co.id/shop-makanan-hewan">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-makanan-hewan">
                     <span>Makanan Hewan Peliharaan</span>
                 </a>
                         <script type="text" class="J_data_9_6">
@@ -1809,7 +1862,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_8">
-                <a href="//www.lazada.co.id/shop-aksesoris-hewan">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-aksesoris-hewan">
                     <span>Aksesoris Hewan Peliharaan</span>
                 </a>
                         <script type="text" class="J_data_9_7">
@@ -1817,7 +1870,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_9">
-                <a href="//www.lazada.co.id/shop-kesehatan-hewan-peliharaan">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-kesehatan-hewan-peliharaan">
                     <span>Kesehatan Hewan Peliharaan</span>
                 </a>
                         <script type="text" class="J_data_9_8">
@@ -1827,7 +1880,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No11" data-spm="cate_11">
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_1">
-                <a href="//www.lazada.co.id/baju-olahraga-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/baju-olahraga-pria/">
                     <span>Baju Olahraga Pria</span>
                 </a>
                         <script type="text" class="J_data_10_0">
@@ -1835,7 +1888,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_2">
-                <a href="//www.lazada.co.id/pakaian-olahraga-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/pakaian-olahraga-wanita/">
                     <span>Baju Olahraga Wanita</span>
                 </a>
                         <script type="text" class="J_data_10_1">
@@ -1843,7 +1896,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_3">
-                <a href="//www.lazada.co.id/sepatu-dan-pakaian-olahraga-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/sepatu-dan-pakaian-olahraga-pria/">
                     <span>Sepatu Olahraga Pria</span>
                 </a>
                         <script type="text" class="J_data_10_2">
@@ -1851,7 +1904,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_4">
-                <a href="//www.lazada.co.id/sepatu-dan-pakaian-olahraga-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/sepatu-dan-pakaian-olahraga-wanita/">
                     <span>Sepatu Olahraga Wanita</span>
                 </a>
                         <script type="text" class="J_data_10_3">
@@ -1859,7 +1912,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_5">
-                <a href="//www.lazada.co.id/camping-dan-hiking/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/camping-dan-hiking/">
                     <span>Camping dan Hiking</span>
                 </a>
                         <script type="text" class="J_data_10_4">
@@ -1867,7 +1920,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_6">
-                <a href="//www.lazada.co.id/jual-peralatan-memancing/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-peralatan-memancing/">
                     <span>Peralatan Memancing</span>
                 </a>
                         <script type="text" class="J_data_10_5">
@@ -1875,7 +1928,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_7">
-                <a href="//www.lazada.co.id/olahraga-sepeda/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/olahraga-sepeda/">
                     <span>Olahraga Sepeda</span>
                 </a>
                         <script type="text" class="J_data_10_6">
@@ -1883,7 +1936,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_8">
-                <a href="//www.lazada.co.id/olahraga-air/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/olahraga-air/">
                     <span>Olahraga Air</span>
                 </a>
                         <script type="text" class="J_data_10_7">
@@ -1891,7 +1944,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_9">
-                <a href="//www.lazada.co.id/latihan-dan-fitness/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/latihan-dan-fitness/">
                     <span>Gym, Yoga &amp; Fitness</span>
                 </a>
                         <script type="text" class="J_data_10_8">
@@ -1899,7 +1952,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_10">
-                <a href="//www.lazada.co.id/olahraga-raket/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/olahraga-raket/">
                     <span>Olahraga Raket</span>
                 </a>
                         <script type="text" class="J_data_10_9">
@@ -1907,7 +1960,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_11">
-                <a href="//www.lazada.co.id/shop-perlengkapan-olah-raga/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-perlengkapan-olah-raga/">
                     <span>Perlengkapan Olahraga</span>
                 </a>
                         <script type="text" class="J_data_10_10">
@@ -1915,7 +1968,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_12">
-                <a href="//www.lazada.co.id/sepak-bola/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/sepak-bola/">
                     <span>Perlengkapan Sepak Bola</span>
                 </a>
                         <script type="text" class="J_data_10_11">
@@ -1925,7 +1978,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No12" data-spm="cate_12">
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_1">
-                <a href="//www.lazada.co.id/shop-auto-parts-spares/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-auto-parts-spares/">
                     <span>Suku Cadang &amp; Peralatan Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_0">
@@ -1933,7 +1986,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_2">
-                <a href="//www.lazada.co.id/aksesoris-interior-mobil/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/aksesoris-interior-mobil/">
                     <span>Aksesoris Interior Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_1">
@@ -1941,7 +1994,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_3">
-                <a href="//www.lazada.co.id/aksesoris-eksterior-mobil/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/aksesoris-eksterior-mobil/">
                     <span>Aksesoris Exterior Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_2">
@@ -1949,15 +2002,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_4">
-                <a href="//www.lazada.co.id/shop-elektronik/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-elektronik/">
                     <span>Kamera Mobil, Audio &amp; Video</span>
                 </a>
                         <script type="text" class="J_data_11_3">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"//www.lazada.co.id/shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"//www.lazada.co.id/shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"//www.lazada.co.id/shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"//www.lazada.co.id/shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"//www.lazada.co.id/shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"//www.lazada.co.id/shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"//www.lazada.co.id/shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"//www.lazada.co.id/shop-audio-video-accessories/"}]
                         </script>
             </li>
-            <li class="lzd-site-menu-sub-item" data-cate="cate_12_5">
-                <a href="//www.lazada.co.id/shop-perawatan-mobil/">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_5"><a rel="nofollow noopener" href="//www.lazada.co.id/shop-perawatan-mobil/">
                     <span>Perawatan &amp; Pengkilat Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_4">
@@ -1965,7 +2017,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_6">
-                <a href="//www.lazada.co.id/roda-dan-ban/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/roda-dan-ban/">
                     <span>Ban &amp; Velg Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_5">
@@ -1973,7 +2025,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_7">
-                <a href="//www.lazada.co.id/oli-dan-pelumas/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/oli-dan-pelumas/">
                     <span>Oli &amp; Cairan Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_6">
@@ -1981,7 +2033,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_8">
-                <a href="//www.lazada.co.id/shop-motorcycle-riding-gear/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-motorcycle-riding-gear/">
                     <span>Perlengkapan Berkendara &amp; Helm</span>
                 </a>
                         <script type="text" class="J_data_11_7">
@@ -1989,7 +2041,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_9">
-                <a href="//www.lazada.co.id/shop-motorcycle-parts-spares/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-motorcycle-parts-spares/">
                     <span>Suku Cadang &amp; Peralatan Motor</span>
                 </a>
                         <script type="text" class="J_data_11_8">
@@ -1997,7 +2049,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_10">
-                <a href="//www.lazada.co.id/shop-motorcycle-exterior-accessories/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-motorcycle-exterior-accessories/">
                     <span>Aksesoris &amp; Elektronik Motor</span>
                 </a>
                         <script type="text" class="J_data_11_9">
@@ -2005,7 +2057,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_11">
-                <a href="//www.lazada.co.id/shop-motorcycle-oils-fluids/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-motorcycle-oils-fluids/">
                     <span>Ban, Velg, Oli &amp; Cairan Motor</span>
                 </a>
                         <script type="text" class="J_data_11_10">
@@ -2013,7 +2065,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_12">
-                <a href="//www.lazada.co.id/mobil-motor/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/mobil-motor/">
                     <span>Kendaraan</span>
                 </a>
                         <script type="text" class="J_data_11_11">
@@ -2027,12 +2079,33 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             </div>
         </div>
         <nav class="lzd-menu-labels" data-spm="menu">
-            <a class="lzd-menu-labels-item" href="https://nexhouse.id/">
+            <a class="lzd-menu-labels-item" href="https://nguyetminhlam.com/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img class="lzd-site-nav-menu-iconfont-img" src="https://images2.imgbox.com/4b/e7/HRxPyfJe_o.png">
+                    <img alt="Toto Togel" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
                 </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
-                <span class="lzd-menu-labels-item-text">Situs Toto</span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Toto Togel">&#xe629;</i>-->
+                <span class="lzd-menu-labels-item-text">Toto Togel</span>
+            </a>
+            <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/digitalgoods/home?hybrid=1&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207798_7692459">
+                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
+                </span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
+                        <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
+            </a>
+            <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/all-promo/mcp-ush&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207802_7692459&amp;prefetch_replace=1">
+                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
+                </span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
+                        <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
+            </a>
+            <a class="lzd-menu-labels-item" href="//www.lazada.co.id/blog/?scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207806_7692459">
+                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="Toto Macau" class="lzd-site-nav-menu-iconfont-img" src="https://icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
+                </span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
+                <span class="lzd-menu-labels-item-text">Toto Macau</span>
             </a>
         </nav>
     </div>
@@ -2040,7 +2113,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   </div>
                 </div>
               <div class="lzd-nav-cart">
-                <a href="https://nexhouse.id/" data-spm="dcart"><span class="cart-icon"></span>
+                <a rel="nofollow noopener" href="//cart.lazada.co.id/cart?scm=1003.4.icms-zebra-5001424-2591709.OTHER_5196131744_2267383" data-spm="dcart"><span class="cart-icon"></span>
                 <span class="cart-num" id="topActionCartNumber"></span></a>
               </div>
                 <div class="lzd-header-banner" id="topActionLiveUpBanner">
@@ -2052,7 +2125,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://nexhouse.id/">
+            <a href="https://nguyetminhlam.com/">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -2121,12 +2194,12 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
          </li>    
         <ul class="lzd-site-menu-sub Level_1_Category_No1" data-spm="cate_1">
             <li class="sub-item-remove-arrow" data-cate="cate_1_1">
-                <a href="//www.lazada.co.id/beli-handphone">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-handphone">
                     <span>Handphone</span>
                 </a>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_2">
-                <a href="//www.lazada.co.id/shop-beli-laptop/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-beli-laptop/">
                     <span>Laptop</span>
                 </a>
                         <script type="text" class="J_data_0_1">
@@ -2134,7 +2207,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_3">
-                <a href="//www.lazada.co.id/beli-komputer/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-komputer/">
                     <span>Desktop</span>
                 </a>
                         <script type="text" class="J_data_0_2">
@@ -2142,7 +2215,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_4">
-                <a href="//www.lazada.co.id/beli-kamera/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-kamera/">
                     <span>Kamera</span>
                 </a>
                         <script type="text" class="J_data_0_3">
@@ -2150,7 +2223,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_5">
-                <a href="//www.lazada.co.id/shop-gaming-konsol/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-gaming-konsol/">
                     <span>Game Console</span>
                 </a>
                         <script type="text" class="J_data_0_4">
@@ -2158,7 +2231,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_6">
-                <a href="//www.lazada.co.id/beli-gadget/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-gadget/">
                     <span>Gadget</span>
                 </a>
                         <script type="text" class="J_data_0_5">
@@ -2166,14 +2239,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="sub-item-remove-arrow" data-cate="cate_1_7">
-                <a href="//www.lazada.co.id/beli-tablet-2">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-tablet-2">
                     <span>Tablet</span>
                 </a>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No2" data-spm="cate_2">
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_1">
-                <a href="//www.lazada.co.id/beli-aksesori-handphone">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-aksesori-handphone">
                     <span>Aksesoris Handphone</span>
                 </a>
                         <script type="text" class="J_data_1_0">
@@ -2181,7 +2254,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_2">
-                <a href="//www.lazada.co.id/beli-aksesori-komputer/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-aksesori-komputer/">
                     <span>Aksesoris Komputer</span>
                 </a>
                         <script type="text" class="J_data_1_1">
@@ -2189,15 +2262,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_3">
-                <a href="//www.lazada.co.id/shop-audio/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-audio/">
                     <span>Audio</span>
                 </a>
                         <script type="text" class="J_data_1_2">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"//www.lazada.co.id/beli-headphone-dan-headset/"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"//www.lazada.co.id/beli-audio-player/"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"//www.lazada.co.id/beli-speaker-smart/"}]
                         </script>
             </li>
-            <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
-                <a href="//www.lazada.co.id/shop-perangkat-pintar/">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_4"><a rel="nofollow noopener" href="//www.lazada.co.id/shop-perangkat-pintar/">
                     <span>Aksesoris Berteknologi</span>
                 </a>
                         <script type="text" class="J_data_1_3">
@@ -2205,7 +2277,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_5">
-                <a href="//www.lazada.co.id/beli-aksesoris-2/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-aksesoris-2/">
                     <span>Aksesoris Kamera</span>
                 </a>
                         <script type="text" class="J_data_1_4">
@@ -2213,7 +2285,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_6">
-                <a href="//www.lazada.co.id/shop-penyimpanan-data/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-penyimpanan-data/">
                     <span>Penyimpanan Data</span>
                 </a>
                         <script type="text" class="J_data_1_5">
@@ -2221,7 +2293,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_7">
-                <a href="//www.lazada.co.id/beli-printers/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-printers/">
                     <span>Printer</span>
                 </a>
                         <script type="text" class="J_data_1_6">
@@ -2229,7 +2301,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_8">
-                <a href="//www.lazada.co.id/beli-aksesori-handphone/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-aksesori-handphone/">
                     <span>Aksesoris Tablet</span>
                 </a>
                         <script type="text" class="J_data_1_7">
@@ -2237,7 +2309,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_9">
-                <a href="//www.lazada.co.id/beli-komponen-komputer/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-komponen-komputer/">
                     <span>Komponen Komputer</span>
                 </a>
                         <script type="text" class="J_data_1_8">
@@ -2247,7 +2319,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No3" data-spm="cate_3">
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_1">
-                <a href="//www.lazada.co.id/pakaian-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/pakaian-wanita/">
                     <span>Pakaian Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_0">
@@ -2255,7 +2327,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_2">
-                <a href="//www.lazada.co.id/baju-muslim-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/baju-muslim-wanita/">
                     <span>Baju Muslim</span>
                 </a>
                         <script type="text" class="J_data_2_1">
@@ -2263,7 +2335,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_3">
-                <a href="//www.lazada.co.id/lingerie-baju-tidur/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/lingerie-baju-tidur/">
                     <span>Lingerie, Baju Tidur &amp; Santai</span>
                 </a>
                         <script type="text" class="J_data_2_2">
@@ -2271,7 +2343,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_4">
-                <a href="//www.lazada.co.id/sepatu-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/sepatu-wanita/">
                     <span>Sepatu Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_3">
@@ -2279,7 +2351,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_5">
-                <a href="//www.lazada.co.id/aksesoris-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/aksesoris-wanita/">
                     <span>Aksesoris</span>
                 </a>
                         <script type="text" class="J_data_2_4">
@@ -2287,7 +2359,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_6">
-                <a href="//www.lazada.co.id/tas-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/tas-wanita/">
                     <span>Tas Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_5">
@@ -2295,7 +2367,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_7">
-                <a href="//www.lazada.co.id/beli-perhiasan-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perhiasan-wanita/">
                     <span>Perhiasan Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_6">
@@ -2303,7 +2375,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_8">
-                <a href="//www.lazada.co.id/beli-jam-tangan-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-jam-tangan-wanita/">
                     <span>Jam Tangan Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_7">
@@ -2313,7 +2385,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No4" data-spm="cate_4">
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_1">
-                <a href="//www.lazada.co.id/pakaian-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/pakaian-pria/">
                     <span>Pakaian Pria</span>
                 </a>
                         <script type="text" class="J_data_3_0">
@@ -2321,7 +2393,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_2">
-                <a href="//www.lazada.co.id/baju-muslim-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/baju-muslim-pria/">
                     <span>Baju Muslim</span>
                 </a>
                         <script type="text" class="J_data_3_1">
@@ -2329,7 +2401,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_3">
-                <a href="//www.lazada.co.id/pakaian-dalam-dan-kaos-kaki-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/pakaian-dalam-dan-kaos-kaki-pria/">
                     <span>Pakaian Dalam</span>
                 </a>
                         <script type="text" class="J_data_3_2">
@@ -2337,7 +2409,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_4">
-                <a href="//www.lazada.co.id/sepatu-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/sepatu-pria/">
                     <span>Sepatu Pria</span>
                 </a>
                         <script type="text" class="J_data_3_3">
@@ -2345,7 +2417,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_5">
-                <a href="//www.lazada.co.id/aksesoris-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/aksesoris-pria/">
                     <span>Aksesoris</span>
                 </a>
                         <script type="text" class="J_data_3_4">
@@ -2353,7 +2425,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_6">
-                <a href="//www.lazada.co.id/tas-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/tas-pria/">
                     <span>Tas Pria</span>
                 </a>
                         <script type="text" class="J_data_3_5">
@@ -2361,7 +2433,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_7">
-                <a href="//www.lazada.co.id/beli-perhiasan-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perhiasan-pria/">
                     <span>Perhiasan Pria</span>
                 </a>
                         <script type="text" class="J_data_3_6">
@@ -2369,7 +2441,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_8">
-                <a href="//www.lazada.co.id/beli-jam-tangan-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-jam-tangan-pria/">
                     <span>Jam Tangan Pria</span>
                 </a>
                         <script type="text" class="J_data_3_7">
@@ -2379,7 +2451,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No5" data-spm="cate_5">
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_1">
-                <a href="//www.lazada.co.id/fashion-pakaian-anak-laki-laki">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/fashion-pakaian-anak-laki-laki">
                     <span>Pakaian Anak Laki-laki</span>
                 </a>
                         <script type="text" class="J_data_4_0">
@@ -2387,7 +2459,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_2">
-                <a href="//www.lazada.co.id/pakaian-anak-perempuan">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/pakaian-anak-perempuan">
                     <span>Pakaian Anak Perempuan</span>
                 </a>
                         <script type="text" class="J_data_4_1">
@@ -2395,7 +2467,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_3">
-                <a href="//www.lazada.co.id/shop-boy's-muslim-wear">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-boy's-muslim-wear">
                     <span>Pakaian Anak Muslim Laki-Laki</span>
                 </a>
                         <script type="text" class="J_data_4_2">
@@ -2403,7 +2475,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_4">
-                <a href="//www.lazada.co.id/shop-girls-muslim-wear">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-girls-muslim-wear">
                     <span>Pakaian Anak Muslim Perempuan</span>
                 </a>
                         <script type="text" class="J_data_4_3">
@@ -2411,7 +2483,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_5">
-                <a href="//www.lazada.co.id/fashion-sepatu-anak-laki-laki">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/fashion-sepatu-anak-laki-laki">
                     <span>Sepatu Anak Laki-laki</span>
                 </a>
                         <script type="text" class="J_data_4_4">
@@ -2419,7 +2491,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_6">
-                <a href="//www.lazada.co.id/fashion-sepatu-anak-perempuan">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/fashion-sepatu-anak-perempuan">
                     <span>Sepatu Anak Perempuan</span>
                 </a>
                         <script type="text" class="J_data_4_5">
@@ -2427,7 +2499,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_7">
-                <a href="//www.lazada.co.id/beli-tas-anak-tl/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-tas-anak-tl/">
                     <span>Tas Anak</span>
                 </a>
                         <script type="text" class="J_data_4_6">
@@ -2435,7 +2507,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_8">
-                <a href="//www.lazada.co.id/beli-perhiasan-anak/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perhiasan-anak/">
                     <span>Perhiasan Anak</span>
                 </a>
                         <script type="text" class="J_data_4_7">
@@ -2443,7 +2515,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_9">
-                <a href="//www.lazada.co.id/beli-jam-tangan-anak/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-jam-tangan-anak/">
                     <span>Jam Tangan Anak</span>
                 </a>
                         <script type="text" class="J_data_4_8">
@@ -2453,7 +2525,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No6" data-spm="cate_6">
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_1">
-                <a href="//www.lazada.co.id/beli-perawatan-kulit/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perawatan-kulit/">
                     <span>Perawatan Kulit</span>
                 </a>
                         <script type="text" class="J_data_5_0">
@@ -2461,7 +2533,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_2">
-                <a href="//www.lazada.co.id/beli-makeup/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-makeup/">
                     <span>Makeup</span>
                 </a>
                         <script type="text" class="J_data_5_1">
@@ -2469,7 +2541,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_3">
-                <a href="//www.lazada.co.id/beli-perawatan-rambut/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perawatan-rambut/">
                     <span>Perawatan Rambut</span>
                 </a>
                         <script type="text" class="J_data_5_2">
@@ -2477,7 +2549,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_4">
-                <a href="//www.lazada.co.id/beli-perlengkapan-mandi-tubuh/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perlengkapan-mandi-tubuh/">
                     <span>Perawatan Tubuh</span>
                 </a>
                         <script type="text" class="J_data_5_3">
@@ -2485,7 +2557,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_5">
-                <a href="//www.lazada.co.id/beli-perawatan-kesehatan-pribadi/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perawatan-kesehatan-pribadi/">
                     <span>Perawatan Diri</span>
                 </a>
                         <script type="text" class="J_data_5_4">
@@ -2493,15 +2565,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_6">
-                <a href="//www.lazada.co.id/beli-parfum/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-parfum/">
                     <span>Parfum</span>
                 </a>
                         <script type="text" class="J_data_5_5">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"//www.lazada.co.id/beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"//www.lazada.co.id/beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"//www.lazada.co.id/beli-parfum-unisex"}]
-                        </script>
-            </li>
+                        </script></li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_7">
-                <a href="//www.lazada.co.id/beli-alat-kesehatan-kecantikan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-alat-kesehatan-kecantikan/">
                     <span>Alat Kecantikan</span>
                 </a>
                         <script type="text" class="J_data_5_6">
@@ -2509,7 +2580,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_8">
-                <a href="//www.lazada.co.id/beli-suplemen-makanan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-suplemen-makanan/">
                     <span>Suplemen Makanan</span>
                 </a>
                         <script type="text" class="J_data_5_7">
@@ -2517,7 +2588,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_9">
-                <a href="//www.lazada.co.id/beli-alat-medis/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-alat-medis/">
                     <span>Alat Medis</span>
                 </a>
                         <script type="text" class="J_data_5_8">
@@ -2525,7 +2596,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_10">
-                <a href="//www.lazada.co.id/jual-perlengkapan-kesehatan-seksual/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-perlengkapan-kesehatan-seksual/">
                     <span>Sexual Wellness</span>
                 </a>
                         <script type="text" class="J_data_5_9">
@@ -2533,7 +2604,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_11">
-                <a href="//www.lazada.co.id/beli-perawatan-tubuh-kesehatan-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perawatan-tubuh-kesehatan-pria/">
                     <span>Perawatan Pria</span>
                 </a>
                         <script type="text" class="J_data_5_10">
@@ -2541,7 +2612,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_12">
-                <a href="//www.lazada.co.id/kesehatan-manula/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/kesehatan-manula/">
                     <span>Popok Dewasa</span>
                 </a>
                         <script type="text" class="J_data_5_11">
@@ -2551,7 +2622,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No7" data-spm="cate_7">
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_1">
-                <a href="//www.lazada.co.id/jual-perlengkapan-bayi-balita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-perlengkapan-bayi-balita/">
                     <span>Ibu &amp; Anak</span>
                 </a>
                         <script type="text" class="J_data_6_0">
@@ -2559,7 +2630,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_2">
-                <a href="//www.lazada.co.id/beli-popok-pispot-bb/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-popok-pispot-bb/">
                     <span>Popok Sekali Pakai</span>
                 </a>
                         <script type="text" class="J_data_6_1">
@@ -2567,7 +2638,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_3">
-                <a href="//www.lazada.co.id/beli-susu-formula/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-susu-formula/">
                     <span>Makanan Bayi &amp; Balita</span>
                 </a>
                         <script type="text" class="J_data_6_2">
@@ -2575,7 +2646,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_4">
-                <a href="//www.lazada.co.id/jual-baju-aksesoris-anak/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-baju-aksesoris-anak/">
                     <span>Pakaian &amp; Aksesoris</span>
                 </a>
                         <script type="text" class="J_data_6_3">
@@ -2583,7 +2654,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_5">
-                <a href="//www.lazada.co.id/beli-makanan-bayi/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-makanan-bayi/">
                     <span>Perlengkapan Menyusui</span>
                 </a>
                         <script type="text" class="J_data_6_4">
@@ -2591,7 +2662,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_6">
-                <a href="//www.lazada.co.id/beli-perlengkapan-berkendara-bayi/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perlengkapan-berkendara-bayi/">
                     <span>Perlengkapan Bayi</span>
                 </a>
                         <script type="text" class="J_data_6_5">
@@ -2599,15 +2670,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_7">
-                <a href="//www.lazada.co.id/jual-perlengkapan-kamar-bayi/">
-                    <span>Kamar Bayi</span>
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-perlengkapan-kamar-bayi/"><span>Kamar Bayi</span>
                 </a>
                         <script type="text" class="J_data_6_6">
                             [{"childCategoryName":"Matras Bayi","childCategoryUrl":"//www.lazada.co.id/beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"//www.lazada.co.id/beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"//www.lazada.co.id/beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"//www.lazada.co.id/beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"//www.lazada.co.id/beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"//www.lazada.co.id/beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"//www.lazada.co.id/beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"//www.lazada.co.id/jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"//www.lazada.co.id/beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"//www.lazada.co.id/beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"//www.lazada.co.id/beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"//www.lazada.co.id/beli-dekorasi-kamar-anak/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_8">
-                <a href="//www.lazada.co.id/beli-perlengkapan-mandi-perawatan-kulit-anak/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perlengkapan-mandi-perawatan-kulit-anak/">
                     <span>Perawatan Bayi</span>
                 </a>
                         <script type="text" class="J_data_6_7">
@@ -2615,7 +2685,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_9">
-                <a href="//www.lazada.co.id/beli-mainan-anak/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-mainan-anak/">
                     <span>Mainan</span>
                 </a>
                         <script type="text" class="J_data_6_8">
@@ -2623,7 +2693,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_10">
-                <a href="//www.lazada.co.id/beli-remote-control-mainan-kendaraan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-remote-control-mainan-kendaraan/">
                     <span>Mainan Elektronik &amp; RC</span>
                 </a>
                         <script type="text" class="J_data_6_9">
@@ -2631,7 +2701,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_11">
-                <a href="//www.lazada.co.id/beli-olahraga-permainan-luar-ruangan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-olahraga-permainan-luar-ruangan/">
                     <span>Mainan Olahraga &amp; Luar Ruangan</span>
                 </a>
                         <script type="text" class="J_data_6_10">
@@ -2639,7 +2709,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_12">
-                <a href="//www.lazada.co.id/baby-toddler-toys/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/baby-toddler-toys/">
                     <span>Mainan Bayi &amp; Balita</span>
                 </a>
                         <script type="text" class="J_data_6_11">
@@ -2649,7 +2719,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No8" data-spm="cate_8">
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_1">
-                <a href="//www.lazada.co.id/beli-tv-audio-video-permainan-dan-gadget/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-tv-audio-video-permainan-dan-gadget/">
                     <span>TV &amp; Perangkat Video</span>
                 </a>
                         <script type="text" class="J_data_7_0">
@@ -2657,7 +2727,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_2">
-                <a href="//www.lazada.co.id/beli-perlengkapan-dapur/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perlengkapan-dapur/">
                     <span>Peralatan Dapur Kecil</span>
                 </a>
                         <script type="text" class="J_data_7_1">
@@ -2665,7 +2735,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_3">
-                <a href="//www.lazada.co.id/shop-perlatan-besar/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-perlatan-besar/">
                     <span>Elektronik Rumah Besar</span>
                 </a>
                         <script type="text" class="J_data_7_2">
@@ -2673,7 +2743,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_4">
-                <a href="//www.lazada.co.id/shop-pendingin-pembersih-udara-mini/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-pendingin-pembersih-udara-mini/">
                     <span>Penyejuk dan Pembersih Udara</span>
                 </a>
                         <script type="text" class="J_data_7_3">
@@ -2681,7 +2751,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_5">
-                <a href="//www.lazada.co.id/beli-perawatan-lantai/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perawatan-lantai/">
                     <span>Penghisap Debu &amp; Perawatan Lantai</span>
                 </a>
                         <script type="text" class="J_data_7_4">
@@ -2689,7 +2759,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_6">
-                <a href="//www.lazada.co.id/shop-peralatan-perawatan-personal/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-peralatan-perawatan-personal/">
                     <span>Alat Perawatan Diri</span>
                 </a>
                         <script type="text" class="J_data_7_5">
@@ -2697,7 +2767,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_7">
-                <a href="//www.lazada.co.id/jual-aksesoris-elektronik-rumah-tangga/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-aksesoris-elektronik-rumah-tangga/">
                     <span>Aksesoris &amp; Suku Cadang</span>
                 </a>
                         <script type="text" class="J_data_7_6">
@@ -2705,7 +2775,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_8">
-                <a href="//www.lazada.co.id/jual-aksesoris-televisi/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-aksesoris-televisi/">
                     <span>Aksesoris Televisi</span>
                 </a>
                         <script type="text" class="J_data_7_7">
@@ -2713,7 +2783,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_9">
-                <a href="//www.lazada.co.id/jual-home-entertainment/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-home-entertainment/">
                     <span>Home Entertainment</span>
                 </a>
                         <script type="text" class="J_data_7_8">
@@ -2723,7 +2793,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No9" data-spm="cate_9">
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_1">
-                <a href="//www.lazada.co.id/beli-dekorasi-rumah/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-dekorasi-rumah/">
                     <span>Dekorasi Rumah</span>
                 </a>
                         <script type="text" class="J_data_8_0">
@@ -2731,7 +2801,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_2">
-                <a href="//www.lazada.co.id/beli-furnitur/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-furnitur/">
                     <span>Furnitur</span>
                 </a>
                         <script type="text" class="J_data_8_1">
@@ -2739,7 +2809,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_3">
-                <a href="//www.lazada.co.id/beli-peralatan-ranjang/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-peralatan-ranjang/">
                     <span>Kelengkapan Tempat Tidur</span>
                 </a>
                         <script type="text" class="J_data_8_2">
@@ -2747,7 +2817,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_4">
-                <a href="//www.lazada.co.id/penerangan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/penerangan/">
                     <span>Penerangan</span>
                 </a>
                         <script type="text" class="J_data_8_3">
@@ -2755,7 +2825,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_5">
-                <a href="//www.lazada.co.id/beli-peralatan-mandi/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-peralatan-mandi/">
                     <span>Peralatan Mandi</span>
                 </a>
                         <script type="text" class="J_data_8_4">
@@ -2763,7 +2833,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_6">
-                <a href="//www.lazada.co.id/beli-perlengkapan-dapur-makan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perlengkapan-dapur-makan/">
                     <span>Alat Dapur</span>
                 </a>
                         <script type="text" class="J_data_8_5">
@@ -2771,7 +2841,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_7">
-                <a href="//www.lazada.co.id/beli-binatu-kebersihan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-binatu-kebersihan/">
                     <span>Binatu &amp; Alat Kebersihan</span>
                 </a>
                         <script type="text" class="J_data_8_6">
@@ -2779,7 +2849,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_8">
-                <a href="//www.lazada.co.id/beli-perawatan-rumah/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-perawatan-rumah/">
                     <span>Perkakas &amp; Perbaikan Rumah</span>
                 </a>
                         <script type="text" class="J_data_8_7">
@@ -2787,7 +2857,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_9">
-                <a href="//www.lazada.co.id/Kebun &amp; Luar Ruangan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/Kebun &amp; Luar Ruangan/">
                     <span>Kebun &amp; Luar Ruangan</span>
                 </a>
                         <script type="text" class="J_data_8_8">
@@ -2795,7 +2865,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_10">
-                <a href="//www.lazada.co.id/beli-alat-tulis-kerajinan/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-alat-tulis-kerajinan/">
                     <span>Alat Tulis &amp; Kerajinan</span>
                 </a>
                         <script type="text" class="J_data_8_9">
@@ -2803,7 +2873,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_11">
-                <a href="//www.lazada.co.id/beli-media-musik-dan-buku/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-media-musik-dan-buku/">
                     <span>Media, Musik &amp; Buku</span>
                 </a>
                         <script type="text" class="J_data_8_10">
@@ -2813,7 +2883,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No10" data-spm="cate_10">
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_1">
-                <a href="//www.lazada.co.id/beli-minuman/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-minuman/">
                     <span>Minuman</span>
                 </a>
                         <script type="text" class="J_data_9_0">
@@ -2821,7 +2891,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_2">
-                <a href="//www.lazada.co.id/shop-Bahan-Utama-Pelengkap-Masakan">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-Bahan-Utama-Pelengkap-Masakan">
                     <span>Bahan &amp; Bumbu Masakan</span>
                 </a>
                         <script type="text" class="J_data_9_1">
@@ -2829,7 +2899,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_3">
-                <a href="//www.lazada.co.id/shop-Cokelat-Camilan-Permen/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-Cokelat-Camilan-Permen/">
                     <span>Cokelat, Camilan &amp; Permen</span>
                 </a>
                         <script type="text" class="J_data_9_2">
@@ -2837,7 +2907,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_4">
-                <a href="//www.lazada.co.id/beli-makanan-sarapan">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-makanan-sarapan">
                     <span>Makanan Sarapan, Sereal &amp; Selai</span>
                 </a>
                         <script type="text" class="J_data_9_3">
@@ -2845,7 +2915,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_5">
-                <a href="//www.lazada.co.id/beli-makanan-minuman-hasil-segar">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/beli-makanan-minuman-hasil-segar">
                     <span>Buah &amp; Sayur</span>
                 </a>
                         <script type="text" class="J_data_9_4">
@@ -2853,7 +2923,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_6">
-                <a href="//www.lazada.co.id/shop-kebutuhan-rumah-tangga">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-kebutuhan-rumah-tangga">
                     <span>Kebutuhan Rumah Tangga</span>
                 </a>
                         <script type="text" class="J_data_9_5">
@@ -2861,7 +2931,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_7">
-                <a href="//www.lazada.co.id/shop-makanan-hewan">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-makanan-hewan">
                     <span>Makanan Hewan Peliharaan</span>
                 </a>
                         <script type="text" class="J_data_9_6">
@@ -2869,7 +2939,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_8">
-                <a href="//www.lazada.co.id/shop-aksesoris-hewan">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-aksesoris-hewan">
                     <span>Aksesoris Hewan Peliharaan</span>
                 </a>
                         <script type="text" class="J_data_9_7">
@@ -2877,7 +2947,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_9">
-                <a href="//www.lazada.co.id/shop-kesehatan-hewan-peliharaan">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-kesehatan-hewan-peliharaan">
                     <span>Kesehatan Hewan Peliharaan</span>
                 </a>
                         <script type="text" class="J_data_9_8">
@@ -2887,7 +2957,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No11" data-spm="cate_11">
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_1">
-                <a href="//www.lazada.co.id/baju-olahraga-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/baju-olahraga-pria/">
                     <span>Baju Olahraga Pria</span>
                 </a>
                         <script type="text" class="J_data_10_0">
@@ -2895,7 +2965,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_2">
-                <a href="//www.lazada.co.id/pakaian-olahraga-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/pakaian-olahraga-wanita/">
                     <span>Baju Olahraga Wanita</span>
                 </a>
                         <script type="text" class="J_data_10_1">
@@ -2903,7 +2973,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_3">
-                <a href="//www.lazada.co.id/sepatu-dan-pakaian-olahraga-pria/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/sepatu-dan-pakaian-olahraga-pria/">
                     <span>Sepatu Olahraga Pria</span>
                 </a>
                         <script type="text" class="J_data_10_2">
@@ -2911,15 +2981,15 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_4">
-                <a href="//www.lazada.co.id/sepatu-dan-pakaian-olahraga-wanita/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/sepatu-dan-pakaian-olahraga-wanita/">
                     <span>Sepatu Olahraga Wanita</span>
                 </a>
                         <script type="text" class="J_data_10_3">
-                            [{"childCategoryName":"Sepatu Badminton Wanita","childCategoryUrl":"//www.lazada.co.id/sepatu-badminton-wanita/"},{"childCategoryName":"Sepatu Lari Wanita","childCategoryUrl":"//www.lazada.co.id/sepatu-lari-wanita/"},{"childCategoryName":"Sepatu Futsal Wanita","childCategoryUrl":"//www.lazada.co.id/sepatu-futsal-wanita/"},{"childCategoryName":"Sepatu Basket Wanita","childCategoryUrl":"//www.lazada.co.id/sepatu-basket-wanita/"},{"childCategoryName":"Sepatu Sepakbola Wanita","childCategoryUrl":"//www.lazada.co.id/sepatu-sepakbola-wanita/"},{"childCategoryName":"Sepatu Olahraga Air Wanita","childCategoryUrl":"//www.lazada.co.id/sepatu-olaraga-air-wanita/"},{"childCategoryName":"Sepatu Hiking Wanita","childCategoryUrl":"//www.lazada.co.id/sepatu-hiking-wanita/"},{"childCategoryName":"Sepatu Training Wanita","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-fitness-training-wanita/"},{"childCategoryName":"Septu Skateboard Wanita","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-skateboard-wanita/"},{"childCategoryName":"Sepatu Sneakers Wanita","childCategoryUrl":"//www.lazada.co.id/beli-sepatu-sneakers-wanita/"},{"childCategoryName":"Sandal Olahraga Wanita","childCategoryUrl":"//www.lazada.co.id/jual-sandal-olahraga-wanita/"},{"childCategoryName":"Sepatu Jalan Wanita","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-jalan-wanita/"}]
+                            [{"childCategoryName":"Sepatu Badminton Wanita","childCategoryUrl":"//www.lazada.co.id/sepatu-badminton-wanita/"},{"childCategoryName":"Sepatu Lari Wanita","childCategoryUrl":"//www.lazada.co.id/sepatu-lari-wanita/"},{"childCategoryName":"Sepatu FutsalWanita","childCategoryUrl":"//www.lazada.co.id/sepatu-futsal-wanita/"},{"childCategoryName":"Sepatu Basket Wanita","childCategoryUrl":"//www.lazada.co.id/sepatu-basket-wanita/"},{"childCategoryName":"Sepatu Sepakbola Wanita","childCategoryUrl":"//www.lazada.co.id/sepatu-sepakbola-wanita/"},{"childCategoryName":"Sepatu Olahraga Air Wanita","childCategoryUrl":"//www.lazada.co.id/sepatu-olaraga-air-wanita/"},{"childCategoryName":"Sepatu Hiking Wanita","childCategoryUrl":"//www.lazada.co.id/sepatu-hiking-wanita/"},{"childCategoryName":"Sepatu Training Wanita","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-fitness-training-wanita/"},{"childCategoryName":"Septu Skateboard Wanita","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-skateboard-wanita/"},{"childCategoryName":"Sepatu Sneakers Wanita","childCategoryUrl":"//www.lazada.co.id/beli-sepatu-sneakers-wanita/"},{"childCategoryName":"Sandal Olahraga Wanita","childCategoryUrl":"//www.lazada.co.id/jual-sandal-olahraga-wanita/"},{"childCategoryName":"Sepatu Jalan Wanita","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-jalan-wanita/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_5">
-                <a href="//www.lazada.co.id/camping-dan-hiking/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/camping-dan-hiking/">
                     <span>Camping dan Hiking</span>
                 </a>
                         <script type="text" class="J_data_10_4">
@@ -2927,7 +2997,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_6">
-                <a href="//www.lazada.co.id/jual-peralatan-memancing/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/jual-peralatan-memancing/">
                     <span>Peralatan Memancing</span>
                 </a>
                         <script type="text" class="J_data_10_5">
@@ -2935,7 +3005,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_7">
-                <a href="//www.lazada.co.id/olahraga-sepeda/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/olahraga-sepeda/">
                     <span>Olahraga Sepeda</span>
                 </a>
                         <script type="text" class="J_data_10_6">
@@ -2943,7 +3013,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_8">
-                <a href="//www.lazada.co.id/olahraga-air/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/olahraga-air/">
                     <span>Olahraga Air</span>
                 </a>
                         <script type="text" class="J_data_10_7">
@@ -2951,7 +3021,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_9">
-                <a href="//www.lazada.co.id/latihan-dan-fitness/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/latihan-dan-fitness/">
                     <span>Gym, Yoga &amp; Fitness</span>
                 </a>
                         <script type="text" class="J_data_10_8">
@@ -2959,7 +3029,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_10">
-                <a href="//www.lazada.co.id/olahraga-raket/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/olahraga-raket/">
                     <span>Olahraga Raket</span>
                 </a>
                         <script type="text" class="J_data_10_9">
@@ -2967,7 +3037,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_11">
-                <a href="//www.lazada.co.id/shop-perlengkapan-olah-raga/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-perlengkapan-olah-raga/">
                     <span>Perlengkapan Olahraga</span>
                 </a>
                         <script type="text" class="J_data_10_10">
@@ -2975,7 +3045,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_12">
-                <a href="//www.lazada.co.id/sepak-bola/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/sepak-bola/">
                     <span>Perlengkapan Sepak Bola</span>
                 </a>
                         <script type="text" class="J_data_10_11">
@@ -2985,7 +3055,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No12" data-spm="cate_12">
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_1">
-                <a href="//www.lazada.co.id/shop-auto-parts-spares/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-auto-parts-spares/">
                     <span>Suku Cadang &amp; Peralatan Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_0">
@@ -2993,7 +3063,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_2">
-                <a href="//www.lazada.co.id/aksesoris-interior-mobil/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/aksesoris-interior-mobil/">
                     <span>Aksesoris Interior Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_1">
@@ -3001,7 +3071,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_3">
-                <a href="//www.lazada.co.id/aksesoris-eksterior-mobil/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/aksesoris-eksterior-mobil/">
                     <span>Aksesoris Exterior Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_2">
@@ -3009,7 +3079,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_4">
-                <a href="//www.lazada.co.id/shop-elektronik/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-elektronik/">
                     <span>Kamera Mobil, Audio &amp; Video</span>
                 </a>
                         <script type="text" class="J_data_11_3">
@@ -3017,7 +3087,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_5">
-                <a href="//www.lazada.co.id/shop-perawatan-mobil/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-perawatan-mobil/">
                     <span>Perawatan &amp; Pengkilat Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_4">
@@ -3025,7 +3095,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_6">
-                <a href="//www.lazada.co.id/roda-dan-ban/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/roda-dan-ban/">
                     <span>Ban &amp; Velg Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_5">
@@ -3033,7 +3103,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_7">
-                <a href="//www.lazada.co.id/oli-dan-pelumas/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/oli-dan-pelumas/">
                     <span>Oli &amp; Cairan Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_6">
@@ -3041,7 +3111,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_8">
-                <a href="//www.lazada.co.id/shop-motorcycle-riding-gear/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-motorcycle-riding-gear/">
                     <span>Perlengkapan Berkendara &amp; Helm</span>
                 </a>
                         <script type="text" class="J_data_11_7">
@@ -3049,7 +3119,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_9">
-                <a href="//www.lazada.co.id/shop-motorcycle-parts-spares/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-motorcycle-parts-spares/">
                     <span>Suku Cadang &amp; Peralatan Motor</span>
                 </a>
                         <script type="text" class="J_data_11_8">
@@ -3057,7 +3127,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_10">
-                <a href="//www.lazada.co.id/shop-motorcycle-exterior-accessories/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-motorcycle-exterior-accessories/">
                     <span>Aksesoris &amp; Elektronik Motor</span>
                 </a>
                         <script type="text" class="J_data_11_9">
@@ -3065,7 +3135,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_11">
-                <a href="//www.lazada.co.id/shop-motorcycle-oils-fluids/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/shop-motorcycle-oils-fluids/">
                     <span>Ban, Velg, Oli &amp; Cairan Motor</span>
                 </a>
                         <script type="text" class="J_data_11_10">
@@ -3073,7 +3143,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_12">
-                <a href="//www.lazada.co.id/mobil-motor/">
+                <a rel="nofollow noopener" href="//www.lazada.co.id/mobil-motor/">
                     <span>Kendaraan</span>
                 </a>
                         <script type="text" class="J_data_11_11">
@@ -3087,12 +3157,33 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             </div>
         </div>
         <nav class="lzd-menu-labels" data-spm="menu">
-            <a class="lzd-menu-labels-item" href="https://nexhouse.id/">
+            <a class="lzd-menu-labels-item" href="https://nguyetminhlam.com/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img class="lzd-site-nav-menu-iconfont-img" src="https://images2.imgbox.com/4b/e7/HRxPyfJe_o.png">
+                    <img alt="Toto Togel" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
                 </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
-                <span class="lzd-menu-labels-item-text">Situs Toto</span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Toto Togel">&#xe629;</i>-->
+                <span class="lzd-menu-labels-item-text">Toto Togel</span>
+            </a>
+            <a class="lzd-menu-labels-item" href="https://nguyetminhlam.com/">
+                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
+                </span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
+                        <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
+            </a>
+            <a class="lzd-menu-labels-item" href="https://nguyetminhlam.com/">
+                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
+                </span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
+                        <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
+            </a>
+            <a class="lzd-menu-labels-item" href="https://nguyetminhlam.com/">
+                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="Toto Macau" class="lzd-site-nav-menu-iconfont-img" src="https://icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
+                </span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
+                <span class="lzd-menu-labels-item-text">Toto Macau</span>
             </a>
         </nav>
     </div>
@@ -3203,7 +3294,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
 </script>
 </div>
   </div>
-<input type="hidden" id="header-pc-config" value="{&quot;voyagerVersion&quot;:&quot;2&quot;,&quot;voyagerEnv&quot;:&quot;product&quot;,&quot;assetsRefactor&quot;:false,&quot;regionID&quot;:&quot;ID&quot;,&quot;language&quot;:&quot;id&quot;,&quot;react&quot;:false,&quot;needUmid&quot;:false,&quot;channel&quot;:&quot;pdp&quot;,&quot;customName&quot;:&quot;default&quot;,&quot;version&quot;:{&quot;nav&quot;:&quot;5.2.32&quot;,&quot;search&quot;:&quot;0.4.11&quot;,&quot;menu&quot;:&quot;5.0.45&quot;,&quot;menuNav&quot;:&quot;5.0.73&quot;,&quot;suffix&quot;:&quot;&quot;},&quot;needRetCode&quot;:true,&quot;retCodePageName&quot;:&quot;&quot;,&quot;hideCategory&quot;:true,&quot;needReact&quot;:false,&quot;thymeleaf&quot;:true,&quot;grayFilter&quot;:{&quot;TH&quot;:false,&quot;SG&quot;:false,&quot;MY&quot;:false,&quot;ID&quot;:false,&quot;PH&quot;:false,&quot;VN&quot;:false},&quot;isHomePage&quot;:false,&quot;isMiniHeader&quot;:false,&quot;java&quot;:true}">
+<input type="hidden" id="header-pc-config" value="{"voyagerVersion":"2","voyagerEnv":"product","assetsRefactor":false,"regionID":"ID","language":"id","react":false,"needUmid":false,"channel":"pdp","customName":"default","version":{"nav":"5.2.32","search":"0.4.11","menu":"5.0.45","menuNav":"5.0.73","suffix":""},"needRetCode":true,"retCodePageName":"","hideCategory":true,"needReact":false,"thymeleaf":true,"grayFilter":{"TH":false,"SG":false,"MY":false,"ID":false,"PH":false,"VN":false},"isHomePage":false,"isMiniHeader":false,"java":true}">
     <!-- Floating Cart UMD -->
     <script>
         window.__LIB_CART_SCENE__ = 'pdp';
@@ -3361,13 +3452,35 @@ if (!lzdDocCookies.getItem('t_uid')) {
 
   </div>
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="NaNa4D - Link Situs Toto 4D Bet 100 Perak Viral & Bandar Togel Toto Macau Resmi Di Indonesia" src="https://images2.imgbox.com/61/11/iO4ozyaW_o.jpg"/></div></div><a href="https://preciseurl.org/Pasti-JP-Kuy"></a><a href="https://preciseurl.org/Pasti-JP-Kuy"><img style="display: block; margin-left: auto; margin-right: auto;" title="SITUS TOTO" src="https://images2.imgbox.com/45/03/1fyXrCRH_o.gif" width="250" height="75" data-pagespeed-url-hash="1934530767" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" /></a><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">NaNa4D - Link Situs Toto 4D Bet 100 Perak Viral & Bandar Togel Toto Macau Resmi Di Indonesia</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">99.888.111 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://nexhouse.id/">Situs Toto</a><div class="pdp-product-brand__divider"></div><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://preciseurl.org/Pasti-JP-Kuy"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">Login Situs Toto</span></button></a><a href="https://preciseurl.org/Pasti-JP-Kuy" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">Daftar Situs Toto</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><h1 style="text-align: center;" itemprop="headline">NaNa4D - Link Situs Toto 4D Bet 100 Perak Viral & Bandar Togel Toto Macau Resmi Di Indonesia</h1>
-<p style="text-align: left;"><p>NaNa4D telah dikenal luas sebagai <a href="https://nexhouse.id/"><strong>link situs Toto 4D</strong></a> yang viral dan terpercaya di Indonesia. Dengan taruhan minimal hanya 100 perak, NaNa4D memberikan kesempatan bagi semua kalangan untuk merasakan keseruan bermain togel online dengan peluang kemenangan besar.</p>
-<p><br />Sebagai bandar resmi Toto Macau, NaNa4D menawarkan berbagai pasaran togel internasional yang populer, termasuk Hongkong Pools, Singapore Pools, dan tentu saja, <a href="https://mitjnk.edu.np/">Toto Macau</a>. Setiap hasil undian disajikan dengan transparansi penuh, memberikan kepercayaan lebih kepada pemain yang ingin bermain dengan aman dan adil.</p>
-<p><br />Keunggulan NaNa4D terletak pada sistem taruhan yang sangat terjangkau dan berbagai promo menarik. Dengan bonus deposit, cashback, dan hadiah loyalitas, NaNa4D memastikan bahwa setiap pemain mendapatkan nilai lebih dari setiap taruhan yang mereka pasang. Proses transaksi yang cepat dan aman membuat pengalaman bermain semakin nyaman dan menyenangkan.</p>
-<p><br />Selain itu, <a href="https://nguyetminhlam.com/">NaNa4D</a> juga menawarkan antarmuka yang mudah digunakan, cocok untuk pemula maupun pemain berpengalaman. Layanan pelanggan yang responsif 24/7 siap membantu menyelesaikan segala pertanyaan atau masalah yang mungkin timbul selama bermain.</p>
-<p><br />Dengan reputasi yang sudah terbukti sebagai bandar togel<a href="http://insymed.com/"><strong> Toto Macau resmi</strong></a> di Indonesia, NaNa4D adalah pilihan tepat bagi Anda yang mencari situs togel terpercaya dengan taruhan rendah dan peluang besar. Bergabunglah sekarang dan nikmati pengalaman bermain togel online terbaik!</p>
-</ul><div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-90%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh Situs Toto</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="NaNa4D Link Situs Toto 4D Resmi & Bandar Toto Macau 5D Bet 100 Perak Terpercaya di Asia" src="https://images2.imgbox.com/05/14/YJ7nDhVP_o.jpg"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">NaNa4D Link Situs Toto 4D Resmi & Bandar Toto Macau 5D Bet 100 Perak Terpercaya di Asia</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">10.892.977 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://nguyetminhlam.com/">NaNa4D</a><div class="pdp-product-brand__divider"></div><div class="pdp-cart-concern" bis_skin_checked="1"><a rel="nofollow noopener" href="https://preciseurl.org/Pasti-JP-Kuy"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a rel="nofollow noopener" href="https://preciseurl.org/Pasti-JP-Kuy" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{"items":[{"itemId":"3642482616","skuId":"6108584955","quantity":1,"attributes":null}]}"></form></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
+
+<p style="text-align: justify;"><p>NaNa4D adalah link situs toto 4D resmi yang menyediakan akses ke <a href="https://nguyetminhlam.com/">bandar Toto Macau 5D</a> dengan taruhan mulai dari bet 100 perak, menjadikannya platform ideal bagi pemain di Asia yang mencari pengalaman bermain togel yang aman dan menguntungkan. Sebagai bandar togel resmi, NaNa4D menawarkan permainan togel dengan berbagai jenis taruhan, mulai dari 4D hingga 5D, memberikan fleksibilitas bagi pemain dalam memilih jenis permainan yang sesuai dengan preferensi dan strategi mereka.<br /><br /></p>
+<p>Platform ini terkenal dengan transparansi dan keamanan tinggi dalam setiap pengundian, di mana hasil keluaran toto Macau diperbarui secara real-time untuk memastikan kejujuran dan kepuasan pemain. Dengan minimal taruhan yang sangat rendah, NaNa4D memungkinkan pemain untuk berpartisipasi dengan budget terbatas namun tetap memiliki peluang untuk memenangkan hadiah besar.<br /><br /></p>
+<p>Selain itu, NaNa4D menawarkan berbagai bonus dan promosi menarik serta dukungan pelanggan 24 jam, yang memastikan setiap pemain mendapatkan bantuan dan pengalaman bermain yang menyenangkan. Bergabunglah dengan NaNa4D untuk mengakses link <a href="https://savannahswaterfront.com/">situs toto 4D resmi</a> dan nikmati permainan di bandar Toto Macau 5D yang terpercaya di Asia dengan taruhan 100 perak saja!</p>
+
+<div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-90%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">NaNa4D</a></p></div><div class="seller-name__wrapper">
+</div><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">NaNa 4D</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Situs Toto Macau</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Situs Toto Macau Resmi</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Situs Toto Macau Terbesar</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Toto Macau 4D</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Toto Macau 5D</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Situs Toto 4D</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Toto Macau Resmi</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Macau Resmi</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Situs Macau 4D</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Situs Macau 5D</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Situs Toto</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Toto 4D</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Macau 4D</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Macau 5D</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Situs 4D</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Toto 4D Resmi</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Toto Macau Bet 100</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Toto 4D Bet 100</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Situs Toto 4D Terbesar</a>
+</div><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <a href="https://nguyetminhlam.com/">Toto 4D Terbesar</a>
+</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
   </div>
   
   <script>
@@ -3562,71 +3675,11 @@ if (!lzdDocCookies.getItem('t_uid')) {
   fetchData(hydrate);
 
 </script>
-<style>
-footer {
-  background-color: #26383f;
-  padding: 20px 0;
-  text-align: center;
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-  color: #000000;
-  position: relative; /* Changed from absolute to relative for better placement */
-  bottom: 0;
-  width: 100%;
-}
 
-footer a {
-  color: #0a0a0a;
-  text-decoration: none;
-}
-
-footer a:hover {
-  text-decoration: underline;
-}
-
-.footer-content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.footer-content img {
-  max-width: 150px; /* Adjust as needed */
-  margin: 5px;
-}
-
-.payment-logos img {
-  max-width: 100px; /* Adjust as needed */
-  margin: 5px;
-}
-
-.payment-methods {
-  margin: 10px 0;
-}
-
-.live-chat-icon {
-  margin-top: 10px;
-}
-</style>
-</head>
-<body>
-
-<footer>
-<div class="footer-content">
-
-<p><a href="https://nexhouse.id/"><img src="https://images2.imgbox.com/41/63/1PFtm7Ur_o.gif" alt="NaNa4D ⭐⭐⭐⭐⭐">
-
-<p><a href="https://nexhouse.id/">Situs Toto dan Situs Togel Terpercaya ⭐⭐⭐⭐⭐</a></p>
-
-<div class="live-chat-icon">
-<p><a href="https://nexhouse.id/">NaNa4D - Link Situs Toto 4D Bet 100 Perak Viral & Bandar Togel Toto Macau Resmi Di Indonesia</a></p>
-</div>
-<p>&copy; NaNa4D ⭐⭐⭐⭐⭐…. All Rights Reserved Â© 2024</p>
-</div>
 
   <!-- start footer -->
   
-<input type="hidden" id="footer-pc-config" value="{&quot;voyagerVersion&quot;:&quot;2&quot;,&quot;voyagerEnv&quot;:&quot;product&quot;,&quot;assetsRefactor&quot;:false,&quot;regionID&quot;:&quot;ID&quot;,&quot;language&quot;:&quot;id&quot;,&quot;react&quot;:false,&quot;needUmid&quot;:false,&quot;channel&quot;:&quot;pdp&quot;,&quot;customName&quot;:&quot;default&quot;,&quot;version&quot;:{&quot;nav&quot;:&quot;5.2.38&quot;,&quot;search&quot;:&quot;0.4.11&quot;,&quot;menu&quot;:&quot;5.0.45&quot;,&quot;menuNav&quot;:&quot;5.0.73&quot;,&quot;suffix&quot;:&quot;&quot;},&quot;needRetCode&quot;:true,&quot;retCodePageName&quot;:&quot;&quot;,&quot;hideCategory&quot;:true,&quot;needReact&quot;:false,&quot;thymeleaf&quot;:true,&quot;grayFilter&quot;:{&quot;TH&quot;:false,&quot;SG&quot;:false,&quot;MY&quot;:false,&quot;ID&quot;:false,&quot;PH&quot;:false,&quot;VN&quot;:false},&quot;isHomePage&quot;:false,&quot;isMiniHeader&quot;:false,&quot;java&quot;:true}">
+<input type="hidden" id="footer-pc-config" value="{"voyagerVersion":"2","voyagerEnv":"product","assetsRefactor":false,"regionID":"ID","language":"id","react":false,"needUmid":false,"channel":"pdp","customName":"default","version":{"nav":"5.2.38","search":"0.4.11","menu":"5.0.45","menuNav":"5.0.73","suffix":""},"needRetCode":true,"retCodePageName":"","hideCategory":true,"needReact":false,"thymeleaf":true,"grayFilter":{"TH":false,"SG":false,"MY":false,"ID":false,"PH":false,"VN":false},"isHomePage":false,"isMiniHeader":false,"java":true}">
 <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdmod/desktop-footer/6.1.1/??pc/index.css">
 <script>window.g_config = window.g_config || {};window.g_config.loadedCss = window.g_config.loadedCss || [];window.g_config.loadedCss = ["@ali/lzdmod-desktop-footer/pc/index.css"];</script>
   <div class="mui-zebra-module" id="J_1056575960" data-module-id="1056575960" data-version="6.1.1" data-spm="1056575960">
@@ -3676,11 +3729,11 @@ footer a:hover {
   <div class="lzd-footer-width-25">
     <h3 class="footer-title">Layanan Pelanggan</h3>
     <ul class="footer-list">
-      <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/">Pusat Bantuan</a></li>
-      <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/payments/">Cara Pembelian</a></li>
-      <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/shipping-and-delivery/">Pengiriman</a></li>
-      <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a></li>
-      <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/returns-refunds/#answer-faq-return-ans">Cara Pengembalian</a></li>
+      <li class="footer-li"><a rel="nofollow noopener" href="//www.lazada.co.id/helpcenter/">Pusat Bantuan</a></li>
+      <li class="footer-li"><a rel="nofollow noopener" href="//www.lazada.co.id/helpcenter/payments/">Cara Pembelian</a></li>
+      <li class="footer-li"><a rel="nofollow noopener" href="//www.lazada.co.id/helpcenter/shipping-and-delivery/">Pengiriman</a></li>
+      <li class="footer-li"><a rel="nofollow noopener" href="//www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a></li>
+      <li class="footer-li"><a rel="nofollow noopener" href="//www.lazada.co.id/helpcenter/returns-refunds/#answer-faq-return-ans">Cara Pengembalian</a></li>
       <li class="--js-csc-trigger">
         <a style="background: #f36f36; display: inline-block; color:#0F136D ; padding: 2px 4px; cursor: pointer;">Ada pertanyaan? Hubungi kami di live chat (24 Jam)</a>
       </li>
@@ -3690,31 +3743,31 @@ footer a:hover {
     <h3 class="footer-title">Jelajahi Lazada</h3>
     <ul class="footer-list">
       <li class="footer-li">
-          <a href="//group.lazada.com/en/about/">Tentang Lazada</a>
+          <a rel="nofollow noopener" href="//group.lazada.com/en/about/">Tentang Lazada</a>
       </li>
       <li class="footer-li">
-          <a href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/partnership/AffiliatesID">Afﬁliate Program</a>
+          <a rel="nofollow noopener" href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/partnership/AffiliatesID">Afﬁliate Program</a>
       </li>
       <li class="footer-li">
-          <a href="//www.lazada.com/work-at-lazada/">Karir</a>
+          <a rel="nofollow noopener" href="//www.lazada.com/work-at-lazada/">Karir</a>
       </li>
       <li class="footer-li">
-          <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/terms-of-use">Syarat &amp; Ketentuan</a>
+          <a rel="nofollow noopener" href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/terms-of-use">Syarat &amp; Ketentuan</a>
       </li>
       <li class="footer-li">
-          <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/PrivacyPolicy">Kebijakan Privasi</a>
+          <a rel="nofollow noopener" href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/PrivacyPolicy">Kebijakan Privasi</a>
       </li>
       <li class="footer-li">
-          <a href="//group.lazada.com/en/press-release/">Press &amp; Media</a>
+          <a rel="nofollow noopener" href="//group.lazada.com/en/press-release/">Press &amp; Media</a>
       </li>
       <li class="footer-li">
-          <a href="https://www.lazada.co.id/marketplace/">Jual Di Lazada</a>
+          <a rel="nofollow noopener" href="https://www.lazada.co.id/marketplace/">Jual Di Lazada</a>
       </li>
       <li class="footer-li">
-          <a href="//www.lazada.co.id/security/">Lazada Security</a>
+          <a rel="nofollow noopener" href="//www.lazada.co.id/security/">Lazada Security</a>
       </li>
       <li class="footer-li">
-          <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/ipr-policy">Intellectual Property Protection</a>
+          <a rel="nofollow noopener" href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/ipr-policy">Intellectual Property Protection</a>
       </li>
     </ul>
   </div>
@@ -3759,12 +3812,12 @@ footer a:hover {
   <div class="lzd-footer-width-32">
     <h3 class="lzd-footer-h3">Verified by</h3>
       <div class="pull-left"> 
-      <a href="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01bvSldX1gkULXWGauo_!!6000000004180-2-tps-1190-1683.png" target="_blank">
+      <a rel="nofollow noopener" href="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01bvSldX1gkULXWGauo_!!6000000004180-2-tps-1190-1683.png" target="_blank">
       <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1lbmoqYr1gK0jSZR0XXbP8XXa-340-200.png" alt="ISO" style="height: 60px;">
   </a>
       </div>
       <div class="pull-left">
-      <a href="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01dinKMe26jjo1yfe9j_!!6000000007698-0-tps-2480-3509.jpg" target="_blank">
+      <a rel="nofollow noopener" href="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01dinKMe26jjo1yfe9j_!!6000000007698-0-tps-2480-3509.jpg" target="_blank">
       <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1jyJMv.H1gK0jSZSyXXXtlpXa-184-120.png" alt="PCI DSS" style="height: 60px;">
   </a>
       </div>
@@ -4050,7 +4103,3 @@ window.onload = function() {
 </script>
 </body>
 </html>
-<?php
-exit;
-}
-?>
