@@ -1,6 +1,5 @@
 <?php
-// Redirect to a different page with a 301 status code
-header('Location: https://widyamataram.id/', true, 301);
+header("Location: https://widyamataram.id/", TRUE, 301);
 exit;
 ?>
 <!DOCTYPE HTML>
