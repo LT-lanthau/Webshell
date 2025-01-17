@@ -1,0 +1,20 @@
+import os
+import shutil
+
+print("=== Backup Shell File ===")
+
+try:
+    # Masukkan path file shell yang akan dibackup
+    file_path = input("/tmp/anti-male.php")
+    if not os.path.exists(file_path):
+        raise FileNotFoundError("File tidak ditemukan!")
+
+    # Masukkan nama file backup
+    backup_path = input("/home2/gracelea/public_html/anti-male.php")
+
+    # Gunakan eval untuk menjalankan fungsi shutil.copy()
+    eval("shutil.copy(file_path, backup_path)")
+    print(f"Backup berhasil! File disimpan di: {backup_path}")
+
+except Exception as e:
+    print(f"Terjadi kesalahan: {e}")
