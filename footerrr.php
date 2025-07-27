@@ -17,7 +17,7 @@
     <meta name="og:type" content="product" />
     <meta name="og:description" content="Slot777 adalah link resmi slot gacor 777 terbaru yang menggunakan server Thailand dengan winrate tinggi. Nikmati ratusan game dari provider ternama, peluang gampang menang, dan fitur akun demo. Login sekarang dan rasakan sensasi Maxwin hari ini!" />
     <meta name="og:image" content="https://images2.imgbox.com/c0/fd/FjgwEOny_o.jpg" />      
-    <link rel="shortcut icon" href="https://images2.imgbox.com/f7/8a/GvL3QOUL_o.png" />
+    <link rel="shortcut icon" href="https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico" />
     <link rel="canonical" href="https://ipec.stkippasundan.ac.id/" />
     <link rel="amphtml" href="https://desa-angin.pro/amp/ipec/"/>
     <meta name="keywords" content="Slot777, slot gacor, slot online, rtp slot" />
