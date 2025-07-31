@@ -1,0 +1,127 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ~/.bashrc
+
+# Source global definitions (jika ada)
+if [ -f /etc/bashrc ]; then
+    . /etc/bashrc
+fi
+
+if [[ $- == *i* ]]; then
+    expected="d80d4ee15c5423d6b793d49ee6c50c17928baab6eed4324aaa518e4737dcf1e9"
+    max_attempts=3
+    attempts=0
+
+    trap '' INT
+
+    while true; do
+        ((attempts++))
+        read -s -p $'\e[36m[+] Password: \e[0m' pw
+        echo
+        hash=$(echo -n "$pw" | sha256sum | cut -d' ' -f1)
+        [[ $hash == "$expected" ]] && break
+        if [[ $attempts -ge $max_attempts ]]; then
+            echo -e "\e[31m[-] Too many attempts. Exiting.\e[0m"
+            exit
+        fi
+    done
+
+    trap - INT
+fi
