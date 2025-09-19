@@ -102,7 +102,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
     <meta name="theme-color" content="#333333">
 
-    <link rel="canonical" href="https://journals.unizik.edu.ng/">
+    <link rel="canonical" href="https://ejournal.uinsgd.ac.id/">
 
    <script type="application/ld+json">
 {
@@ -117,10 +117,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   },
   "sku": "SLOT88",
   "mpn": "SLOT ONLINE",
-  "url": "https://journals.unizik.edu.ng/",
+  "url": "https://ejournal.uinsgd.ac.id/",
   "offers": {
     "@type": "Offer",
-    "url": "https://journals.unizik.edu.ng/",
+    "url": "https://ejournal.uinsgd.ac.id/",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -174,37 +174,37 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
       "@type": "ListItem",
       "position": 1,
       "name": "SLOT88",
-      "item": "https://journals.unizik.edu.ng/"
+      "item": "https://ejournal.uinsgd.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SLOT RESMI",
-      "item": "https://journals.unizik.edu.ng/"
+      "item": "https://ejournal.uinsgd.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SITUS TOGEL",
-      "item": "https://journals.unizik.edu.ng/"
+      "item": "https://ejournal.uinsgd.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SITUS SLOT TERBESAR",
-      "item": "https://journals.unizik.edu.ng/"
+      "item": "https://ejournal.uinsgd.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SITUS SLOT GAMPANG MENANG",
-      "item": "https://journals.unizik.edu.ng/"
+      "item": "https://ejournal.uinsgd.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "LINK SLOT88",
-      "item": "https://journals.unizik.edu.ng/"
+      "item": "https://ejournal.uinsgd.ac.id/"
     }
   ]
 }
@@ -215,7 +215,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "SLOT88",
-  "url": "https://journals.unizik.edu.ng/",
+  "url": "https://ejournal.uinsgd.ac.id/",
   "logo": "https://iili.io/KxXHOkQ.gif",
   "sameAs": [
     "https://www.facebook.com/dutalotre",
@@ -279,7 +279,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     <meta property="og:description"
         content="SLOT777 adalah link situs slot gacor 777 terbaru yang dikenal paling cuan di tahun 2025. Dengan dukungan server Thailand super stabil dan RTP Slot88 tertinggi, peluang menang besar dan jackpot maxwin jadi lebih mudah diraih setiap hari.">
     <meta property="og:image" content="https://images2.imgbox.com/b6/f4/z70LJBKb_o.png">
-    <meta property="og:url" content="https://journals.unizik.edu.ng/">
+    <meta property="og:url" content="https://ejournal.uinsgd.ac.id/">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
@@ -289,7 +289,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     <meta name="twitter:image" content="https://images2.imgbox.com/b6/f4/z70LJBKb_o.png">
     <meta property="og:title" content="SLOT777: Link Situs Gacor 777 Terbaru Paling Cuan & Login Toto Slot 4D Dengan RTP Slot88 Tertinggi Server Thailand">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://journals.unizik.edu.ng/">
+    <meta property="og:url" content="https://ejournal.uinsgd.ac.id/">
     <meta property="og:image" content="https://images2.imgbox.com/b6/f4/z70LJBKb_o.png" />
     <meta property="og:description"
         content="SLOT777 adalah link situs slot gacor 777 terbaru yang dikenal paling cuan di tahun 2025. Dengan dukungan server Thailand super stabil dan RTP Slot88 tertinggi, peluang menang besar dan jackpot maxwin jadi lebih mudah diraih setiap hari.">
@@ -701,502 +701,502 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         //]]>
     </script>
     <div style="display: none;">
-        <a href="https://journals.unizik.edu.ng/">slot gacor a2--suria88</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --situs(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --cc(tokowin99.com)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --yy(tokowin99.com)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --online(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor (-@dewazeus33.com)</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor --online(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">slot super gacor</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor --asik(japri138)</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor ✅--arena333</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor --slot(jostoto)</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor --deposit(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">slot88 --⚡vegas338</a>
-        <a href="https://journals.unizik.edu.ng/">slot88 online --💸sso77</a>
-        <a href="https://journals.unizik.edu.ng/">slot777 slot ➤sand77.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot777 --💸bisabet</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --raja(bet818.com)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --apk(tokowin99.com)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor evohoki.com</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor sektorplay88.com</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor sektorplay88.com</a>
-        <a href="https://journals.unizik.edu.ng/">judi bola com--mami188</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --jajantogel</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --slot(pragmatic218)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --(hoki108).id</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --asli(goal55)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --(koko288)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor gbowin.login</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --login(dower88)</a>
-        <a href="https://journals.unizik.edu.ng/">daftar slot gbowin.login</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --paus4d</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --gacor(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">slot okebray.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi --7nagatoto evohoki</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi --win(wingacor77.net)</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi --jp(enakcuan)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor q2--(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --pasti(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">slot hobi --hobicuan</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --ww(nagamaxwin333.com)</a>
-        <a href="https://journals.unizik.edu.ng/">slot 79 --jago79</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor b9--suria88</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor citypages.pro</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --gacor(mekar99)</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --deposit(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --daftar(panen88)</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --maxwin(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">slot terpercaya --deposit(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor www.yhteys.org</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --gacha168</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin evohoki</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin cuan.dewazeus33.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi --🔱gacor(77superslot)</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi --maxwin(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi rajadewa138**</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin --vegas338⚡</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin --daftar(nagatoto168)</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin --arunabet</a>
-        <a href="https://journals.unizik.edu.ng/">link slot --pragmatic218🦠</a><a href="https://journals.unizik.edu.ng/">link slot --🔱gacor(77superslot)</a>        
-        <a href="https://journals.unizik.edu.ng/">slot gacor --pasti(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">slot terbaru --link(nagatoto168)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --rtp(slotgacor919.com)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --raja(bet818.com)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --apk(tokowin99.com)</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin --daftar(nagatoto168)</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin --arunabet</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor dewakoin99--asli</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin pol88-88</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin88</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin --(vipdewa)</a>
-        <a href="https://journals.unizik.edu.ng/">slot terbaru --(depo77)</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi --jp(enakcuan)</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi --arunabet</a>
-        <a href="https://journals.unizik.edu.ng/">slot terpercaya --ekatoto</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --terbaru(panen88)</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --kastoto</a>
-        <a href="https://journals.unizik.edu.ng/">slot online -- (exo88.shop)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor a2--suria88</a>
-        <a href="https://journals.unizik.edu.ng/">slot --(dower88.net)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --(kingwin)868.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor tokowin99.com(bebas)</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor p5--(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">slot --(dower88.net)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --asiktoto</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --(spin707🔥)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --server(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">slot terpercaya --gacor(depo77)</a>
-        <a href="https://journals.unizik.edu.ng/">slot terpercaya --jp(enakcuan)</a>
-        <a href="https://journals.unizik.edu.ng/">slot terpercaya --server(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">slot terpercaya server thailand</a>
-        <a href="https://journals.unizik.edu.ng/">slot terpercaya --ihokibet💋</a>
-        <a href="https://journals.unizik.edu.ng/">slot terpercaya --evohoki💋</a>
-        <a href="https://journals.unizik.edu.ng/">slot terpercaya penaslot</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi --gacor(rajacuan69)</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi gacor-lpo88</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi @naga818.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --playwin123@</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --slot(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --login(paus4d)</a>
-        <a href="https://journals.unizik.edu.ng/">judi bola --winstar138</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor --ya(japri138)</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor --jostoto</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor --💋arena333</a>
-        <a href="https://journals.unizik.edu.ng/">situs slot --rtp(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">slot qris 711</a>
-        <a href="https://journals.unizik.edu.ng/">situs slot --slotjos</a>
-        <a href="https://journals.unizik.edu.ng/">apk judi slot dana</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --gacor(77superslot)🖐</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --gacor(mitosbet88)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --jp(rajacuan69)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --login(enakcuan)</a>
-        <a href="https://journals.unizik.edu.ng/">slot777 --jepe(bisabet)</a>
-        <a href="https://journals.unizik.edu.ng/">slot777 --💸(77superslot)</a>
-        <a href="https://journals.unizik.edu.ng/">slot qris --✨(vegas338)</a>
-        <a href="https://journals.unizik.edu.ng/">slot qris --💸(77superslot)</a>
-        <a href="https://journals.unizik.edu.ng/">slot dana --motowin77</a>
-        <a href="https://journals.unizik.edu.ng/">slot dana --rajabandar88</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --rajahoki123</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor dewakoin99.vip</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --situs(dower88.net)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor g2--(koko288)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor 988slot.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor sultankoin99-vip</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --a1(haha303a1)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor b2--(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor c3--(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor e2--(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor d9--(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor f2--(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">slot --masuk(dower88)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --(exo88)</a>
-        <a href="https://journals.unizik.edu.ng/">slot --(dower88)login</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --www(dower88)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor viobet.id</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor www.dirgawin88.net</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor pasti--(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --daftar(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --pro(2waybet)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --����wow388</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor (988cnn).com</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --gudang4d��</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --(gaco88gacor.com)login</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --(delta138)login</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --fuji(fujiwin88)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --(2waybet)❗❗</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor ketuanaga</a>
-        <a href="https://journals.unizik.edu.ng/">slot terbaru --deposit(enakcuan)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor arena333.org��</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor h1--(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --viobet.id</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --asia(asia303)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor j2--(max389)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor mami188</a>
-        <a href="https://journals.unizik.edu.ng/">link slot gacor koko288</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor a1--fila88</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --rtp(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --(spin707?)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor @naga818.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --?arena333</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --hakabet.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor hari ini --slotjos</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor-tokowin99-bebas</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor lgolux</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --pgsoft1000</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --@naga818.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --gacor88(g88)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor provip805</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --terbaru(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor p5--(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor o3--suria88</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --evohoki?</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --jp(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --gacor(enakcuan)</a>
-        <a href="https://journals.unizik.edu.ng/">link slot --slot(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">link slot --💸gacor(77superslot)</a>
-        <a href="https://journals.unizik.edu.ng/">link slot --link(nagatoto168)</a>
-        <a href="https://journals.unizik.edu.ng/">link slot --(spin707)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor q2--(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --pragmatic218🦠</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor -@(dewazeus33)</a>
-        <a href="https://journals.unizik.edu.ng/">slot dana --motowin77</a>
-        <a href="https://journals.unizik.edu.ng/">slot dana --rajabandar88</a>
-        <a href="https://journals.unizik.edu.ng/">slot dana game apk</a>
-        <a href="https://journals.unizik.edu.ng/">slot dana pol88-88</a>
-        <a href="https://journals.unizik.edu.ng/">slot qris --💸(77superslot)</a>
-        <a href="https://journals.unizik.edu.ng/">slot qris--vegas338🤟</a>
-        <a href="https://journals.unizik.edu.ng/">slot pulsa pol88-login</a>
-        <a href="https://journals.unizik.edu.ng/">slot777 slot --terbaik(ez338)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor slot --terbaik(ez338)</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor q2--(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor --apk(tokowin99.com)</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor --belutjp.it.com</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor --ya(japri138)</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --resmi(panen88)</a>
-        <a href="https://journals.unizik.edu.ng/">link slot --gacor(pragmatic218)🦠</a>
-        <a href="https://journals.unizik.edu.ng/">link slot @naga818.com</a>
-        <a href="https://journals.unizik.edu.ng/">link slot --(kastoto)</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi @naga818.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi --jp(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --ihokibet?</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi --slot(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi --tokyoslot.net</a>
-        <a href="https://journals.unizik.edu.ng/">slot online kaptenasia</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --pragmatic77?</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --slot(mekar99)</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --(sektorplay88.com)</a>
-        <a href="https://journals.unizik.edu.ng/">slot online bank338</a>
-        <a href="https://journals.unizik.edu.ng/">slot online pesiarbet</a>
-        <a href="https://journals.unizik.edu.ng/">slot online macan388</a>
-        <a href="https://journals.unizik.edu.ng/">slot online -- (exo88.shop)⚡</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --slot(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --leoslot</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --resmi(slot177)</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --rajacuan69.id</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor b5@@(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --pg(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor f4--suria88</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor -+raja(bet818.com)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --fufuslot</a>
-        <a href="https://journals.unizik.edu.ng/">link slot --masuk(rajamenang1.com)</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin --⚡vegas338</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin --gudang138(jp)</a>
-        <a href="https://journals.unizik.edu.ng/">slot thailand --maxwin(galaxy77</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi --situs(galaxy77)</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi --pg(ligamaster77.it.com)</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi --mahjong500</a>
-        <a href="https://journals.unizik.edu.ng/">situs online --online(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">situs online --maxwin(enakcuan)</a>
-        <a href="https://journals.unizik.edu.ng/">rtp enakcuan</a>
-        <a href="https://journals.unizik.edu.ng/">slot terbaru --server(77superslot)</a>
-        <a href="https://journals.unizik.edu.ng/">slot terbaru --maxwin(enakcuan)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor @@pphoki</a>
-        <a href="https://journals.unizik.edu.ng/">link slot @(hobicuan)</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi --situs(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">situs slot --online(rajamenang1.com)</a>
-        <a href="https://journals.unizik.edu.ng/">situs slot --online(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">slot terpercaya --🧨gacor(77superslot)</a>
-        <a href="https://journals.unizik.edu.ng/">slot terpercaya --maxwin(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">slot demo --🎁motowin77</a>
-        <a href="https://journals.unizik.edu.ng/">slot demo --evohoki💋</a>
-        <a href="https://journals.unizik.edu.ng/">slot demo --ihokibet💋</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --garansi(permata888)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --seru(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --resmi(enakcuan)</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin --link(mitosbet88)</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin --link(nagatoto168)</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin --✨(dt138)</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin pol88-88</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin -- kastoto</a>
-        <a href="https://journals.unizik.edu.ng/">rtp gacor evohoki.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --bonus120 (max389)</a>
-        <a href="https://journals.unizik.edu.ng/">slot terpercaya --jos889</a>
-        <a href="https://journals.unizik.edu.ng/">agen slot --login(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">agen slot --win(wingacor77.net)</a>
-        <a href="https://journals.unizik.edu.ng/">bola slot --josbet--</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --masuk(jajantogel)</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --terbaik(panen88)</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --resmi(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">judi bola --(agen878)</a>
-        <a href="https://journals.unizik.edu.ng/">judi bola --sektorplay88.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --ketuanaga</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor j2--(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --masuk(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --pragmatic218</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor g2--(koko288)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --(suria88)</a>
-        <a href="https://journals.unizik.edu.ng/">toto slot --(agen878)</a>
-        <a href="https://journals.unizik.edu.ng/">slot thailand --🔱resmi(77superslot)</a>
-        <a href="https://journals.unizik.edu.ng/">slot thailand --vegas338⚡</a>
-        <a href="https://journals.unizik.edu.ng/">slot thailand --evohoki💋</a>
-        <a href="https://journals.unizik.edu.ng/">slot thailand --resmi(galaxy77)</a>
-        <a href="https://journals.unizik.edu.ng/">slot thailand evohoki.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --(wow388)inc.org</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor camar4444</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor tante777-pasti</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi m77🙏</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor 988slot.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor 988slot.com</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor sultankoin99.com login</a>
-        <a href="https://journals.unizik.edu.ng/">slot m77.com</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor www.dewabos138.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor sektorplay88.com</a>
-        <a href="https://journals.unizik.edu.ng/">situs terpercaya --terbaik(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">situs terpercaya --resmi(enakcuan)</a>
-        <a href="https://journals.unizik.edu.ng/">situs terpercaya pesiarbet</a>
-        <a href="https://journals.unizik.edu.ng/">situs terpercaya meriah4dlife.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --bebas(tokowin99.com)</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --(kastoto)</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --maxwin(mekar99)</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --sektorplay88.com⚡</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --vegas338⚡</a>
-        <a href="https://journals.unizik.edu.ng/">slot online --🎁gacor(77superslot)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --vegas338⚡</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --gacor hoki108</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --daftar(bigpot88)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor malam ini</a>
-        <a href="https://journals.unizik.edu.ng/">bola slot 🔱indo777</a>
-        <a href="https://journals.unizik.edu.ng/">bola slot josbet</a>
-        <a href="https://journals.unizik.edu.ng/">link alternatif paris88</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor b3@@(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor @@(dewazeus33)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --slot(pragmatic218)🦠</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --jajantogel</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor @@(indo78)⚡</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --wow388top🔥</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --sektorplay88.com⚡</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --turn(jackpot108)</a>
-        <a href="https://journals.unizik.edu.ng/">judi bola --wow388inc.org🔥</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --daftar(jajantogel)</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --masuk(paus4d)</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --resmi(enakcuan)</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --evohoki💋</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --ihokibet💋</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot terpercaya-gboslot</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot di--mami188</a>
-        <a href="https://journals.unizik.edu.ng/">judi bola --vegas338⚽</a>
-        <a href="https://journals.unizik.edu.ng/">judi bola 🔱indo777</a>
-        <a href="https://journals.unizik.edu.ng/">judi bola --sektorplay88.com⚡</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor --jos889</a>
-        <a href="https://journals.unizik.edu.ng/">deposit slot --🎁gacor(77superslot)</a>
-        <a href="https://journals.unizik.edu.ng/">deposit slot --terbaik(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">slot resmi 🔱indo777</a>
-        <a href="https://journals.unizik.edu.ng/">slot terbaru @bisabet</a>
-        <a href="https://journals.unizik.edu.ng/">slot terbaru --resmi(enakcuan)</a>
-        <a href="https://journals.unizik.edu.ng/">slot terbaru bolavitaslot</a>
-        <a href="https://journals.unizik.edu.ng/">situs online o-mami188</a>
-        <a href="https://journals.unizik.edu.ng/">bandar togel essebet.com</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor www.londonorient.com</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor pphoki.com-raja</a>
-        <a href="https://journals.unizik.edu.ng/">bandar slot --resmi(enakcuan)</a>
-        <a href="https://journals.unizik.edu.ng/">bandar togel --sektorplay88.com⚡</a>
-        <a href="https://journals.unizik.edu.ng/">bandar judi indo</a>
-        <a href="https://journals.unizik.edu.ng/">situs slot --a3(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">situs slot --serubet💡</a>
-        <a href="https://journals.unizik.edu.ng/">situs slot --(spin707)</a>
-        <a href="https://journals.unizik.edu.ng/">situs slot --(slotjos)</a>
-        <a href="https://journals.unizik.edu.ng/">situs slot gacor—arjuna88</a>
-        <a href="https://journals.unizik.edu.ng/">situs slot gacor--gbowin</a>
-        <a href="https://journals.unizik.edu.ng/">situs online --resmi(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">situs online macan388</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --tajir365.com</a>
-        <a href="https://journals.unizik.edu.ng/">situs online bank338</a>
-        <a href="https://journals.unizik.edu.ng/">slot online pol88💲</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --jp(jackpot108i.com)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor d8--suria88</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor a5@@(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --bebas(tokowin99.com)</a>
-        <a href="https://journals.unizik.edu.ng/">link slot --(javabetsport</a>
-        <a href="https://journals.unizik.edu.ng/">link vip --playwin123</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor provip805</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor --jam(tokowin99.com)</a>
-        <a href="https://journals.unizik.edu.ng/">slot --rajamenang1.com</a>
-        <a href="https://journals.unizik.edu.ng/">link slot --w2(rajamenang1.com)</a>
-        <a href="https://journals.unizik.edu.ng/">situs slot --gacor(rajamenang1.com)</a>
-        <a href="https://journals.unizik.edu.ng/">situs delta --dt138</a>
-        <a href="https://journals.unizik.edu.ng/">situs slot --server(indojaya168)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor a5--suria88</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --resmi(agen878)</a>
-        <a href="https://journals.unizik.edu.ng/">link slot --online(rajadewa138)</a>
-        <a href="https://journals.unizik.edu.ng/">slot thailand @@pphoki</a>
-        <a href="https://journals.unizik.edu.ng/">slot thailand --⚡vegas338</a>
-        <a href="https://journals.unizik.edu.ng/">slot thailand --maxwin(enakcuan)</a>
-        <a href="https://journals.unizik.edu.ng/">slot thailand --solo(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor microstar88</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor dewakoin99.it</a>
-        <ahref="https://journals.unizik.edu.ng/">alternatif jostoto</a>
-        <a href="https://journals.unizik.edu.ng/">slot mahjong --terbaik(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">slot mahjong --(bigpot88)</a>
-        <a href="https://journals.unizik.edu.ng/">slot mahjong offline</a>
-        <a href="https://journals.unizik.edu.ng/">slot qris --⚡vegas338</a>
-        <a href="https://journals.unizik.edu.ng/">slot qris gol--goal55</a>
-        <a href="https://journals.unizik.edu.ng/">slot qris --⚡cuan365</a>
-        <a href="https://journals.unizik.edu.ng/">slot mahjong --💵vegas338</a>
-        <a href="https://journals.unizik.edu.ng/">slot terbaru --gacor(bisabet)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor c5@@(haha303)</a>
-        <a href="https://journals.unizik.edu.ng/">slot gacor s8--suria88</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --pg(asia303)</a>
-        <a href="https://journals.unizik.edu.ng/">link gacor --bonus(jostoto)</a>
-        <a href="https://journals.unizik.edu.ng/">situs official --jago79.com</a>
-        <a href="https://journals.unizik.edu.ng/">situs gacor 💰💰(anakslotyou.com)</a>
-        <a href="https://journals.unizik.edu.ng/">slot maxwin --bigpot88</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --qris(rajamenang1.com)</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --login(jajantogel)</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --solo(duren777)</a>
-        <a href="https://journals.unizik.edu.ng/">judi slot --bonus(paus4d)</a>
-        <a href="https://journals.unizik.edu.ng/">deposit pulsa --gempa777</a>
-        <a href="https://journals.unizik.edu.ng/">deposit 5000 --gempa777</a>
-        <a href="https://journals.unizik.edu.ng/">JUDOLBET888</a>
-        <a href="https://journals.unizik.edu.ng/">JUDOLBET88</a>
-        <a href="https://journals.unizik.edu.ng/">JUDOLBET</a>
-        <a href="https://journals.unizik.edu.ng/">rtp probet88</a>
-        <a href="https://journals.unizik.edu.ng/">PULITOTO</a>
-        <a href="https://journals.unizik.edu.ng/">BET88</a>
-        <a href="https://journals.unizik.edu.ng/">RAJA88</a>
-        <a href="https://journals.unizik.edu.ng/">WDBOS</a>
-        <a href="https://journals.unizik.edu.ng/">POS4D LOGIN</a>
-        <a href="https://journals.unizik.edu.ng/">WATITOTO LOGIN</a>
-        <a href="https://journals.unizik.edu.ng/">NANASTOTO</a>
-        <a href="https://journals.unizik.edu.ng/">BOLA88</a>
-        <a href="https://journals.unizik.edu.ng/">SITUS 888</a>
-        <a href="https://journals.unizik.edu.ng/">MANCING DUIT</a>
-        <a href="https://journals.unizik.edu.ng/">MANCINGDUIT</a>
-        <a href="https://journals.unizik.edu.ng/">TIKTOKIO</a>
-        <a href="https://journals.unizik.edu.ng/">MUSICALYDOWN</a>
-        <a href="https://journals.unizik.edu.ng/">MPO2121</a>
-        <a href="https://journals.unizik.edu.ng/">MPO1212</a>
-        <a href="https://journals.unizik.edu.ng/">QQALFA</a>
-        <a href="https://journals.unizik.edu.ng/">ARJUNA88</a>
-        <a href="https://journals.unizik.edu.ng/">QQSLOT</a>
-        <a href="https://journals.unizik.edu.ng/">RTP JOSTOTO</a>
-        <a href="https://journals.unizik.edu.ng/">SLOT88 LINK</a>
-        <a href="https://journals.unizik.edu.ng/">QQMACAN</a>
-        <a href="https://journals.unizik.edu.ng/">CAMAR444</a>
-        <a href="https://journals.unizik.edu.ng/">CAMAR4444</a>
-        <a href="https://journals.unizik.edu.ng/">QQPULSA</a>
-        <a href="https://journals.unizik.edu.ng/">KOKO5000</a>
-        <a href="https://journals.unizik.edu.ng/">KOKO500</a>
-        <a href="https://journals.unizik.edu.ng/">DEPOBOS</a>
-        <a href="https://journals.unizik.edu.ng/">DEPOBOS LOGIN</a>
-        <a href="https://journals.unizik.edu.ng/">DEPOBOS DAFTAR</a>
-        <a href="https://journals.unizik.edu.ng/">SOJU88</a>
-        <a href="https://journals.unizik.edu.ng/">SOJU888</a>
-        <a href="https://journals.unizik.edu.ng/">BIRUTOTO</a>
-        <a href="https://journals.unizik.edu.ng/">MPO GACOR</a>
-        <a href="https://journals.unizik.edu.ng/">SBCLIVE4D</a>
-        <a href="https://journals.unizik.edu.ng/">DESA4D</a>
-        <a href="https://journals.unizik.edu.ng/">GEBYAR4D</a>
-        <a href="https://journals.unizik.edu.ng/">DRAGON212</a>
-        <a href="https://journals.unizik.edu.ng/">UGDEWA88</a>
-        <a href="https://journals.unizik.edu.ng/">UGBET</a>
-        <a href="https://journals.unizik.edu.ng/">SURGA22</a>
-        <a href="https://journals.unizik.edu.ng/">SURGA33</a>
-        <a href="https://journals.unizik.edu.ng/">DEPOBOS SITUS</a>
-        <a href="https://journals.unizik.edu.ng/">SURGA44</a>
-        <a href="https://journals.unizik.edu.ng/">SURGA55</a>
-        <a href="https://journals.unizik.edu.ng/">SURGA66</a>
-        <a href="https://journals.unizik.edu.ng/">SURGA77</a>
-        <a href="https://journals.unizik.edu.ng/">SURGA88</a>
-        <a href="https://journals.unizik.edu.ng/">TESTOTO</a>
-        <a href="https://journals.unizik.edu.ng/">ROG77</a>
-        <a href="https://journals.unizik.edu.ng/">PANGKALANTOTO</a>
-        <a href="https://journals.unizik.edu.ng/">11BOLA</a>
-        <a href="https://journals.unizik.edu.ng/">LUXURY333</a>
-        <a href="https://journals.unizik.edu.ng/">OREO5D</a>
-        <a href="https://journals.unizik.edu.ng/">MARIA TOGEL</a>
-        <a href="https://journals.unizik.edu.ng/">NENEKTOGEL</a>
-        <a href="https://journals.unizik.edu.ng/">KOKO303</a>
-        <a href="https://journals.unizik.edu.ng/">WASIAT4D</a>
-        <a href="https://journals.unizik.edu.ng/">DEWI HOKI</a>
-        <a href="https://journals.unizik.edu.ng/">BAGAS31</a>
-        <a href="https://journals.unizik.edu.ng/">MEGAHOKI</a>
-        <a href="https://journals.unizik.edu.ng/">CAIR TOTO</a>
-        <a href="https://journals.unizik.edu.ng/">GARUDA55</a>
-        <a href="https://journals.unizik.edu.ng/">DRAMAQU</a>
-        <a href="https://journals.unizik.edu.ng/">QQ88ASIA</a>
-        <a href="https://journals.unizik.edu.ng/">MARIO TOTO</a>
-        <a href="https://journals.unizik.edu.ng/">MIO TOTO</a>
-        <a href="https://journals.unizik.edu.ng/">SHIOKAMBING5</a>
-        <a href="https://journals.unizik.edu.ng/">OMU TOGEL</a>
-        <a href="https://journals.unizik.edu.ng/">ARWANA TOTO</a>
-        <a href="https://journals.unizik.edu.ng/">PANGKALANTOTO</a>
-        <a href="https://journals.unizik.edu.ng/">MPOASIA</a>
-        <a href="https://journals.unizik.edu.ng/">AIRBET888</a>
-        <a href="https://journals.unizik.edu.ng/">MEGA77</a>
-        <a href="https://journals.unizik.edu.ng/">AMAN788</a>
-        <a href="https://journals.unizik.edu.ng/">COLOKSGP</a>
-        <a href="https://journals.unizik.edu.ng/">TOTO98</a>
-        <a href="https://journals.unizik.edu.ng/">MPO77</a>
-        <a href="https://journals.unizik.edu.ng/">MPO777</a>
-        <a href="https://journals.unizik.edu.ng/">LUMBA77</a>
-        <a href="https://journals.unizik.edu.ng/">LUMBA777</a>
-        <a href="https://journals.unizik.edu.ng/">MENTOS4D</a>
-        <a href="https://journals.unizik.edu.ng/">BOLA365</a>
-        <a href="https://journals.unizik.edu.ng/">GOTO777 DAFTAR</a>
-        <a href="https://journals.unizik.edu.ng/">GOTO777 LOGIN</a>
-        <a href="https://journals.unizik.edu.ng/">SLOT88 LINK</a>
-        <a href="https://journals.unizik.edu.ng/">SLOT88 SLOT</a>
-        <a href="https://journals.unizik.edu.ng/">SLOT88</a>
-        <a href="https://journals.unizik.edu.ng/">IMBAJP</a>
-        <a href="https://journals.unizik.edu.ng/">DANATOTO</a>
-        <a href="https://journals.unizik.edu.ng/">JAYASLOT</a>
-        <a href="https://journals.unizik.edu.ng/">LUNA TOGEL</a>
-        <a href="https://journals.unizik.edu.ng/">BALAP TOTO</a>
-        <a href="https://journals.unizik.edu.ng/">VESPATOGEL</a>
-        <a href="https://journals.unizik.edu.ng/">PINTU TOTO</a>
-        <a href="https://journals.unizik.edu.ng/">WOLES TOGEL</a>
-        <a href="https://journals.unizik.edu.ng/">EURO TOGEL</a>
-        <a href="https://journals.unizik.edu.ng/">YOWESTOGEL</a>
-        <a href="https://journals.unizik.edu.ng/">GOTO777</a>
-        <a href="https://journals.unizik.edu.ng/">MPO100</a>
-        <a href="https://journals.unizik.edu.ng/">FENDI188</a>
-        <a href="https://journals.unizik.edu.ng/">ALADDIN666</a>
-        <a href="https://journals.unizik.edu.ng/">FOKUS77</a>
-        <a href="https://journals.unizik.edu.ng/">HOKTOTO</a>
-        <a href="https://journals.unizik.edu.ng/">JASABOLA</a>
-        <a href="https://journals.unizik.edu.ng/">WWBOLA</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor a2--suria88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --situs(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --cc(tokowin99.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --yy(tokowin99.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --online(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor (-@dewazeus33.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor --online(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot super gacor</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor --asik(japri138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor ✅--arena333</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor --slot(jostoto)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor --deposit(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot88 --⚡vegas338</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot88 online --💸sso77</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot777 slot ➤sand77.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot777 --💸bisabet</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --raja(bet818.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --apk(tokowin99.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor evohoki.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor sektorplay88.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor sektorplay88.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi bola com--mami188</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --jajantogel</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --slot(pragmatic218)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --(hoki108).id</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --asli(goal55)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --(koko288)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor gbowin.login</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --login(dower88)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">daftar slot gbowin.login</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --paus4d</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --gacor(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot okebray.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi --7nagatoto evohoki</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi --win(wingacor77.net)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi --jp(enakcuan)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor q2--(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --pasti(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot hobi --hobicuan</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --ww(nagamaxwin333.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot 79 --jago79</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor b9--suria88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor citypages.pro</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --gacor(mekar99)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --deposit(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --daftar(panen88)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --maxwin(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terpercaya --deposit(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor www.yhteys.org</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --gacha168</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin evohoki</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin cuan.dewazeus33.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi --🔱gacor(77superslot)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi --maxwin(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi rajadewa138**</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin --vegas338⚡</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin --daftar(nagatoto168)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin --arunabet</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link slot --pragmatic218🦠</a><a href="https://ejournal.uinsgd.ac.id/">link slot --🔱gacor(77superslot)</a>        
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --pasti(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terbaru --link(nagatoto168)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --rtp(slotgacor919.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --raja(bet818.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --apk(tokowin99.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin --daftar(nagatoto168)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin --arunabet</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor dewakoin99--asli</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin pol88-88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin --(vipdewa)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terbaru --(depo77)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi --jp(enakcuan)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi --arunabet</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terpercaya --ekatoto</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --terbaru(panen88)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --kastoto</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online -- (exo88.shop)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor a2--suria88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot --(dower88.net)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --(kingwin)868.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor tokowin99.com(bebas)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor p5--(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot --(dower88.net)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --asiktoto</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --(spin707🔥)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --server(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terpercaya --gacor(depo77)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terpercaya --jp(enakcuan)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terpercaya --server(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terpercaya server thailand</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terpercaya --ihokibet💋</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terpercaya --evohoki💋</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terpercaya penaslot</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi --gacor(rajacuan69)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi gacor-lpo88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi @naga818.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --playwin123@</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --slot(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --login(paus4d)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi bola --winstar138</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor --ya(japri138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor --jostoto</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor --💋arena333</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs slot --rtp(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot qris 711</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs slot --slotjos</a>
+        <a href="https://ejournal.uinsgd.ac.id/">apk judi slot dana</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --gacor(77superslot)🖐</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --gacor(mitosbet88)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --jp(rajacuan69)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --login(enakcuan)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot777 --jepe(bisabet)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot777 --💸(77superslot)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot qris --✨(vegas338)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot qris --💸(77superslot)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot dana --motowin77</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot dana --rajabandar88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --rajahoki123</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor dewakoin99.vip</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --situs(dower88.net)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor g2--(koko288)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor 988slot.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor sultankoin99-vip</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --a1(haha303a1)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor b2--(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor c3--(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor e2--(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor d9--(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor f2--(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot --masuk(dower88)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --(exo88)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot --(dower88)login</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --www(dower88)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor viobet.id</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor www.dirgawin88.net</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor pasti--(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --daftar(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --pro(2waybet)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --����wow388</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor (988cnn).com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --gudang4d��</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --(gaco88gacor.com)login</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --(delta138)login</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --fuji(fujiwin88)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --(2waybet)❗❗</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor ketuanaga</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terbaru --deposit(enakcuan)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor arena333.org��</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor h1--(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --viobet.id</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --asia(asia303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor j2--(max389)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor mami188</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link slot gacor koko288</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor a1--fila88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --rtp(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --(spin707?)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor @naga818.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --?arena333</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --hakabet.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor hari ini --slotjos</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor-tokowin99-bebas</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor lgolux</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --pgsoft1000</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --@naga818.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --gacor88(g88)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor provip805</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --terbaru(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor p5--(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor o3--suria88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --evohoki?</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --jp(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --gacor(enakcuan)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link slot --slot(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link slot --💸gacor(77superslot)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link slot --link(nagatoto168)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link slot --(spin707)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor q2--(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --pragmatic218🦠</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor -@(dewazeus33)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot dana --motowin77</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot dana --rajabandar88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot dana game apk</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot dana pol88-88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot qris --💸(77superslot)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot qris--vegas338🤟</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot pulsa pol88-login</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot777 slot --terbaik(ez338)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor slot --terbaik(ez338)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor q2--(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor --apk(tokowin99.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor --belutjp.it.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor --ya(japri138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --resmi(panen88)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link slot --gacor(pragmatic218)🦠</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link slot @naga818.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link slot --(kastoto)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi @naga818.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi --jp(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --ihokibet?</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi --slot(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi --tokyoslot.net</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online kaptenasia</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --pragmatic77?</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --slot(mekar99)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --(sektorplay88.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online bank338</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online pesiarbet</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online macan388</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online -- (exo88.shop)⚡</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --slot(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --leoslot</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --resmi(slot177)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --rajacuan69.id</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor b5@@(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --pg(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor f4--suria88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor -+raja(bet818.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --fufuslot</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link slot --masuk(rajamenang1.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin --⚡vegas338</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin --gudang138(jp)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot thailand --maxwin(galaxy77</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi --situs(galaxy77)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi --pg(ligamaster77.it.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi --mahjong500</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs online --online(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs online --maxwin(enakcuan)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">rtp enakcuan</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terbaru --server(77superslot)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terbaru --maxwin(enakcuan)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor @@pphoki</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link slot @(hobicuan)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi --situs(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs slot --online(rajamenang1.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs slot --online(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terpercaya --🧨gacor(77superslot)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terpercaya --maxwin(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot demo --🎁motowin77</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot demo --evohoki💋</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot demo --ihokibet💋</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --garansi(permata888)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --seru(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --resmi(enakcuan)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin --link(mitosbet88)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin --link(nagatoto168)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin --✨(dt138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin pol88-88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin -- kastoto</a>
+        <a href="https://ejournal.uinsgd.ac.id/">rtp gacor evohoki.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --bonus120 (max389)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terpercaya --jos889</a>
+        <a href="https://ejournal.uinsgd.ac.id/">agen slot --login(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">agen slot --win(wingacor77.net)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">bola slot --josbet--</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --masuk(jajantogel)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --terbaik(panen88)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --resmi(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi bola --(agen878)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi bola --sektorplay88.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --ketuanaga</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor j2--(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --masuk(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --pragmatic218</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor g2--(koko288)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --(suria88)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">toto slot --(agen878)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot thailand --🔱resmi(77superslot)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot thailand --vegas338⚡</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot thailand --evohoki💋</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot thailand --resmi(galaxy77)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot thailand evohoki.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --(wow388)inc.org</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor camar4444</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor tante777-pasti</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi m77🙏</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor 988slot.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor 988slot.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor sultankoin99.com login</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot m77.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor www.dewabos138.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor sektorplay88.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs terpercaya --terbaik(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs terpercaya --resmi(enakcuan)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs terpercaya pesiarbet</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs terpercaya meriah4dlife.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --bebas(tokowin99.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --(kastoto)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --maxwin(mekar99)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --sektorplay88.com⚡</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --vegas338⚡</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online --🎁gacor(77superslot)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --vegas338⚡</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --gacor hoki108</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --daftar(bigpot88)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor malam ini</a>
+        <a href="https://ejournal.uinsgd.ac.id/">bola slot 🔱indo777</a>
+        <a href="https://ejournal.uinsgd.ac.id/">bola slot josbet</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link alternatif paris88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor b3@@(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor @@(dewazeus33)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --slot(pragmatic218)🦠</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --jajantogel</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor @@(indo78)⚡</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --wow388top🔥</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --sektorplay88.com⚡</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --turn(jackpot108)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi bola --wow388inc.org🔥</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --daftar(jajantogel)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --masuk(paus4d)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --resmi(enakcuan)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --evohoki💋</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --ihokibet💋</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot terpercaya-gboslot</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot di--mami188</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi bola --vegas338⚽</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi bola 🔱indo777</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi bola --sektorplay88.com⚡</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor --jos889</a>
+        <a href="https://ejournal.uinsgd.ac.id/">deposit slot --🎁gacor(77superslot)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">deposit slot --terbaik(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot resmi 🔱indo777</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terbaru @bisabet</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terbaru --resmi(enakcuan)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terbaru bolavitaslot</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs online o-mami188</a>
+        <a href="https://ejournal.uinsgd.ac.id/">bandar togel essebet.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor www.londonorient.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor pphoki.com-raja</a>
+        <a href="https://ejournal.uinsgd.ac.id/">bandar slot --resmi(enakcuan)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">bandar togel --sektorplay88.com⚡</a>
+        <a href="https://ejournal.uinsgd.ac.id/">bandar judi indo</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs slot --a3(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs slot --serubet💡</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs slot --(spin707)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs slot --(slotjos)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs slot gacor—arjuna88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs slot gacor--gbowin</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs online --resmi(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs online macan388</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --tajir365.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs online bank338</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot online pol88💲</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --jp(jackpot108i.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor d8--suria88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor a5@@(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --bebas(tokowin99.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link slot --(javabetsport</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link vip --playwin123</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor provip805</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor --jam(tokowin99.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot --rajamenang1.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link slot --w2(rajamenang1.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs slot --gacor(rajamenang1.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs delta --dt138</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs slot --server(indojaya168)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor a5--suria88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --resmi(agen878)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link slot --online(rajadewa138)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot thailand @@pphoki</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot thailand --⚡vegas338</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot thailand --maxwin(enakcuan)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot thailand --solo(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor microstar88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor dewakoin99.it</a>
+        <ahref="https://ejournal.uinsgd.ac.id/">alternatif jostoto</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot mahjong --terbaik(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot mahjong --(bigpot88)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot mahjong offline</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot qris --⚡vegas338</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot qris gol--goal55</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot qris --⚡cuan365</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot mahjong --💵vegas338</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot terbaru --gacor(bisabet)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor c5@@(haha303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot gacor s8--suria88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --pg(asia303)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">link gacor --bonus(jostoto)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs official --jago79.com</a>
+        <a href="https://ejournal.uinsgd.ac.id/">situs gacor 💰💰(anakslotyou.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">slot maxwin --bigpot88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --qris(rajamenang1.com)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --login(jajantogel)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --solo(duren777)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">judi slot --bonus(paus4d)</a>
+        <a href="https://ejournal.uinsgd.ac.id/">deposit pulsa --gempa777</a>
+        <a href="https://ejournal.uinsgd.ac.id/">deposit 5000 --gempa777</a>
+        <a href="https://ejournal.uinsgd.ac.id/">JUDOLBET888</a>
+        <a href="https://ejournal.uinsgd.ac.id/">JUDOLBET88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">JUDOLBET</a>
+        <a href="https://ejournal.uinsgd.ac.id/">rtp probet88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">PULITOTO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">BET88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">RAJA88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">WDBOS</a>
+        <a href="https://ejournal.uinsgd.ac.id/">POS4D LOGIN</a>
+        <a href="https://ejournal.uinsgd.ac.id/">WATITOTO LOGIN</a>
+        <a href="https://ejournal.uinsgd.ac.id/">NANASTOTO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">BOLA88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SITUS 888</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MANCING DUIT</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MANCINGDUIT</a>
+        <a href="https://ejournal.uinsgd.ac.id/">TIKTOKIO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MUSICALYDOWN</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MPO2121</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MPO1212</a>
+        <a href="https://ejournal.uinsgd.ac.id/">QQALFA</a>
+        <a href="https://ejournal.uinsgd.ac.id/">ARJUNA88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">QQSLOT</a>
+        <a href="https://ejournal.uinsgd.ac.id/">RTP JOSTOTO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SLOT88 LINK</a>
+        <a href="https://ejournal.uinsgd.ac.id/">QQMACAN</a>
+        <a href="https://ejournal.uinsgd.ac.id/">CAMAR444</a>
+        <a href="https://ejournal.uinsgd.ac.id/">CAMAR4444</a>
+        <a href="https://ejournal.uinsgd.ac.id/">QQPULSA</a>
+        <a href="https://ejournal.uinsgd.ac.id/">KOKO5000</a>
+        <a href="https://ejournal.uinsgd.ac.id/">KOKO500</a>
+        <a href="https://ejournal.uinsgd.ac.id/">DEPOBOS</a>
+        <a href="https://ejournal.uinsgd.ac.id/">DEPOBOS LOGIN</a>
+        <a href="https://ejournal.uinsgd.ac.id/">DEPOBOS DAFTAR</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SOJU88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SOJU888</a>
+        <a href="https://ejournal.uinsgd.ac.id/">BIRUTOTO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MPO GACOR</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SBCLIVE4D</a>
+        <a href="https://ejournal.uinsgd.ac.id/">DESA4D</a>
+        <a href="https://ejournal.uinsgd.ac.id/">GEBYAR4D</a>
+        <a href="https://ejournal.uinsgd.ac.id/">DRAGON212</a>
+        <a href="https://ejournal.uinsgd.ac.id/">UGDEWA88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">UGBET</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SURGA22</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SURGA33</a>
+        <a href="https://ejournal.uinsgd.ac.id/">DEPOBOS SITUS</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SURGA44</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SURGA55</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SURGA66</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SURGA77</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SURGA88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">TESTOTO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">ROG77</a>
+        <a href="https://ejournal.uinsgd.ac.id/">PANGKALANTOTO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">11BOLA</a>
+        <a href="https://ejournal.uinsgd.ac.id/">LUXURY333</a>
+        <a href="https://ejournal.uinsgd.ac.id/">OREO5D</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MARIA TOGEL</a>
+        <a href="https://ejournal.uinsgd.ac.id/">NENEKTOGEL</a>
+        <a href="https://ejournal.uinsgd.ac.id/">KOKO303</a>
+        <a href="https://ejournal.uinsgd.ac.id/">WASIAT4D</a>
+        <a href="https://ejournal.uinsgd.ac.id/">DEWI HOKI</a>
+        <a href="https://ejournal.uinsgd.ac.id/">BAGAS31</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MEGAHOKI</a>
+        <a href="https://ejournal.uinsgd.ac.id/">CAIR TOTO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">GARUDA55</a>
+        <a href="https://ejournal.uinsgd.ac.id/">DRAMAQU</a>
+        <a href="https://ejournal.uinsgd.ac.id/">QQ88ASIA</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MARIO TOTO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MIO TOTO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SHIOKAMBING5</a>
+        <a href="https://ejournal.uinsgd.ac.id/">OMU TOGEL</a>
+        <a href="https://ejournal.uinsgd.ac.id/">ARWANA TOTO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">PANGKALANTOTO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MPOASIA</a>
+        <a href="https://ejournal.uinsgd.ac.id/">AIRBET888</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MEGA77</a>
+        <a href="https://ejournal.uinsgd.ac.id/">AMAN788</a>
+        <a href="https://ejournal.uinsgd.ac.id/">COLOKSGP</a>
+        <a href="https://ejournal.uinsgd.ac.id/">TOTO98</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MPO77</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MPO777</a>
+        <a href="https://ejournal.uinsgd.ac.id/">LUMBA77</a>
+        <a href="https://ejournal.uinsgd.ac.id/">LUMBA777</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MENTOS4D</a>
+        <a href="https://ejournal.uinsgd.ac.id/">BOLA365</a>
+        <a href="https://ejournal.uinsgd.ac.id/">GOTO777 DAFTAR</a>
+        <a href="https://ejournal.uinsgd.ac.id/">GOTO777 LOGIN</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SLOT88 LINK</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SLOT88 SLOT</a>
+        <a href="https://ejournal.uinsgd.ac.id/">SLOT88</a>
+        <a href="https://ejournal.uinsgd.ac.id/">IMBAJP</a>
+        <a href="https://ejournal.uinsgd.ac.id/">DANATOTO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">JAYASLOT</a>
+        <a href="https://ejournal.uinsgd.ac.id/">LUNA TOGEL</a>
+        <a href="https://ejournal.uinsgd.ac.id/">BALAP TOTO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">VESPATOGEL</a>
+        <a href="https://ejournal.uinsgd.ac.id/">PINTU TOTO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">WOLES TOGEL</a>
+        <a href="https://ejournal.uinsgd.ac.id/">EURO TOGEL</a>
+        <a href="https://ejournal.uinsgd.ac.id/">YOWESTOGEL</a>
+        <a href="https://ejournal.uinsgd.ac.id/">GOTO777</a>
+        <a href="https://ejournal.uinsgd.ac.id/">MPO100</a>
+        <a href="https://ejournal.uinsgd.ac.id/">FENDI188</a>
+        <a href="https://ejournal.uinsgd.ac.id/">ALADDIN666</a>
+        <a href="https://ejournal.uinsgd.ac.id/">FOKUS77</a>
+        <a href="https://ejournal.uinsgd.ac.id/">HOKTOTO</a>
+        <a href="https://ejournal.uinsgd.ac.id/">JASABOLA</a>
+        <a href="https://ejournal.uinsgd.ac.id/">WWBOLA</a>
          </div> 
     <!--[if lte IE 8]>
   <div style="color:#fff;background:#f00;padding:20px;text-align:center;">
@@ -1290,7 +1290,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://journals.unizik.edu.ng/">SLOT88</a>
+                    <a href="https://ejournal.uinsgd.ac.id/">SLOT88</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -1300,36 +1300,36 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
                         data-dropdown-target=".off-canvas-left__sites"
-                        href="https://journals.unizik.edu.ng/"></a>
+                        href="https://ejournal.uinsgd.ac.id/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="hhttps://journals.unizik.edu.ng/">
+                    <a class="off-canvas-left__site" href="hhttps://ejournal.uinsgd.ac.id/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://journals.unizik.edu.ng/">
+                    </a> <a class="off-canvas-left__site" href="https://ejournal.uinsgd.ac.id/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://journals.unizik.edu.ng/">
+                    </a> <a class="off-canvas-left__site" href="https://ejournal.uinsgd.ac.id/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://journals.unizik.edu.ng/">
+                    </a> <a class="off-canvas-left__site" href="https://ejournal.uinsgd.ac.id/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://journals.unizik.edu.ng/">
+                    </a> <a class="off-canvas-left__site" href="https://ejournal.uinsgd.ac.id/">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://journals.unizik.edu.ng/">
+                    </a> <a class="off-canvas-left__site" href="https://ejournal.uinsgd.ac.id/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -1338,7 +1338,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://journals.unizik.edu.ng/" accept-charset="UTF-8"
+                    <form id="search" action="https://ejournal.uinsgd.ac.id/" accept-charset="UTF-8"
                         method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
@@ -1357,41 +1357,41 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-all-items"
-                            href="https://journals.unizik.edu.ng/">
+                            href="https://ejournal.uinsgd.ac.id/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items"><li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Popular Files</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Popular Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Featured Files</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Featured Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Top New Files</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Top New Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Follow Feed</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Follow Feed</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Top Authors</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Top Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Top New
+                                    href="https://ejournal.uinsgd.ac.id/">Top New
                                     Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Public Collections</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Public Collections</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">View All Categories</a>
+                                    href="https://ejournal.uinsgd.ac.id/">View All Categories</a>
                             </li>
                         </ul>
 
@@ -1399,88 +1399,88 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-wordpress"
-                            href="https://journals.unizik.edu.ng/">
+                            href="https://ejournal.uinsgd.ac.id/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Show all
+                                    href="https://ejournal.uinsgd.ac.id/">Show all
                                     WordPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Popular Items</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Blog /
+                                    href="https://ejournal.uinsgd.ac.id/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">BuddyPress</a>
+                                    href="https://ejournal.uinsgd.ac.id/">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Corporate</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Creative</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Directory &amp; Listings</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">eCommerce</a>
+                                    href="https://ejournal.uinsgd.ac.id/">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Education</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Elementor</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Entertainment</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Mobile</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Nonprofit</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Real
+                                    href="https://ejournal.uinsgd.ac.id/">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Retail</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Technology</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Wedding</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Miscellaneous</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">WordPress Plugins</a>
+                                    href="https://ejournal.uinsgd.ac.id/">WordPress Plugins</a>
                             </li>
                         </ul>
 
@@ -1488,21 +1488,21 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-elementor"
-                            href="https://journals.unizik.edu.ng/">
+                            href="https://ejournal.uinsgd.ac.id/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Template Kits</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Template Kits</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Plugins</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Themes</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Themes</a>
                             </li>
                         </ul>
 
@@ -1510,72 +1510,72 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://journals.unizik.edu.ng/">
+                            href="https://ejournal.uinsgd.ac.id/">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://journals.unizik.edu.ng/">
+                            href="https://ejournal.uinsgd.ac.id/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Show all
+                                    href="https://ejournal.uinsgd.ac.id/">Show all
                                     HTML</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Popular Items</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Admin Templates</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Admin Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Corporate</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Creative</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Entertainment</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Mobile</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Nonprofit</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Personal</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Retail</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Specialty Pages</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Technology</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Wedding</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Miscellaneous</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1583,42 +1583,42 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-shopify"
-                            href="https://journals.unizik.edu.ng/">
+                            href="https://ejournal.uinsgd.ac.id/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Show all
+                                    href="https://ejournal.uinsgd.ac.id/">Show all
                                     Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Popular Items</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Fashion</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Shopping</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Shopping</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Health &amp; Beauty</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Health &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Technology</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Entertainment</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Miscellaneous</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1626,90 +1626,90 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://journals.unizik.edu.ng/">
+                            href="https://ejournal.uinsgd.ac.id/">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-marketing"
-                            href="https://journals.unizik.edu.ng/">
+                            href="https://ejournal.uinsgd.ac.id/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Show all
+                                    href="https://ejournal.uinsgd.ac.id/">Show all
                                     Marketing</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Popular Items</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Email Templates</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Email Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Landing Pages</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Landing Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Unbounce Landing Pages</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li><li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://journals.unizik.edu.ng/">
+                            href="https://ejournal.uinsgd.ac.id/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Show all CMS</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Show all CMS</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Popular Items</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Concrete5</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Drupal</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Drupal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">HubSpot CMS Hub</a>
+                                    href="https://ejournal.uinsgd.ac.id/">HubSpot CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Joomla</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Joomla</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">MODX
+                                    href="https://ejournal.uinsgd.ac.id/">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Moodle</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Webflow</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Weebly</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Miscellaneous</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1717,71 +1717,71 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ecommerce"
-                            href="https://journals.unizik.edu.ng/">
+                            href="https://ejournal.uinsgd.ac.id/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Show all
+                                    href="https://ejournal.uinsgd.ac.id/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Popular Items</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">WooCommerce</a>
+                                    href="https://ejournal.uinsgd.ac.id/">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">BigCommerce</a>
+                                    href="https://ejournal.uinsgd.ac.id/">BigCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Drupal Commerce</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Drupal Commerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Easy Digital Downloads</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Easy Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Ecwid</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Magento</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">OpenCart</a>
+                                    href="https://ejournal.uinsgd.ac.id/">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">PrestaShop</a>
+                                    href="https://ejournal.uinsgd.ac.id/">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Shopify</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Ubercart</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">VirtueMart</a>
+                                    href="https://ejournal.uinsgd.ac.id/">VirtueMart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Zen
+                                    href="https://ejournal.uinsgd.ac.id/">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Miscellaneous</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1789,29 +1789,29 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ui-templates"
-                            href="https://journals.unizik.edu.ng/">
+                            href="https://ejournal.uinsgd.ac.id/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Popular Items</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Figma</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Figma</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Adobe
+                                    href="https://ejournal.uinsgd.ac.id/">Adobe
                                     XD</a>
                             </li>
                             <li><a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Photoshop</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Sketch</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Sketch</a>
                             </li>
                         </ul>
 
@@ -1819,56 +1819,56 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://journals.unizik.edu.ng/">
+                            href="https://ejournal.uinsgd.ac.id/">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://journals.unizik.edu.ng/">
+                            href="https://ejournal.uinsgd.ac.id/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Blogging</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Courses</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Facebook Templates</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Facebook Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Free Elementor Templates</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Free Elementor Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Free
+                                    href="https://ejournal.uinsgd.ac.id/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Forums</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Forums</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Ghost
+                                    href="https://ejournal.uinsgd.ac.id/">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://journals.unizik.edu.ng/">Tumblr</a>
+                                    href="https://ejournal.uinsgd.ac.id/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://journals.unizik.edu.ng/">Unlimited
+                                    href="https://ejournal.uinsgd.ac.id/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1879,7 +1879,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://journals.unizik.edu.ng/">Unlimited
+                            href="https://ejournal.uinsgd.ac.id/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1891,7 +1891,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://journals.unizik.edu.ng/">
+                <a class="off-canvas-right__link--cart" href="https://ejournal.uinsgd.ac.id/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1918,7 +1918,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://journals.unizik.edu.ng/">
+                                    <a class="btn btn--square" href="https://ejournal.uinsgd.ac.id/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1938,7 +1938,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="https://journals.unizik.edu.ng/">
+                                        href="https://ejournal.uinsgd.ac.id/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1946,14 +1946,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="https://journals.unizik.edu.ng/">
+                                        href="https://ejournal.uinsgd.ac.id/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://journals.unizik.edu.ng/">
+                                    <a href="https://ejournal.uinsgd.ac.id/">
                                         <img alt="Logo Baru"
                                             src="https://iili.io/KxXHOkQ.gif"
                                             style="height:40px; width:auto; display:inline-block;">
@@ -1970,7 +1970,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://journals.unizik.edu.ng/">
+                                    <a href="https://ejournal.uinsgd.ac.id/">
                                         <img height="50" alt="SLOT88" class="global-header__logo"
                                             src="https://iili.io/KxXHOkQ.gif">
                                     </a>
@@ -1978,7 +1978,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://journals.unizik.edu.ng/">
+                                                    href="https://ejournal.uinsgd.ac.id/">
                                                     <span class="global-header-menu__link-text">
                                                         DAFTAR SLOT88
                                                     </span>
@@ -1986,7 +1986,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             </li>
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://journals.unizik.edu.ng/">
+                                                    href="https://ejournal.uinsgd.ac.id/">
                                                     <span class="global-header-menu__link-text">
                                                         LOGIN SLOT88
                                                     </span>
@@ -1997,7 +1997,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <li data-view="globalHeaderMenuDropdownHandler"
                                                 class="global-header-menu__list-item--with-dropdown">
                                                 <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                                    href="https://journals.unizik.edu.ng/">
+                                                    href="https://ejournal.uinsgd.ac.id/">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon"
                                                         xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
@@ -2015,7 +2015,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                 </a>
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a id="spec-link-cart" class="global-header-menu__link h-pr1"
-                                                    href="https://journals.unizik.edu.ng/">
+                                                    href="https://ejournal.uinsgd.ac.id/">
 
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon global-header-menu__icon-cart"
@@ -2037,7 +2037,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                                    href="https://journals.unizik.edu.ng/">
+                                                    href="https://ejournal.uinsgd.ac.id/">
                                                     <span id="spec-user-username" class="global-header-menu__link-text">
                                                         SITUS ONLINE
                                                     </span>
@@ -2057,31 +2057,31 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link is-active" alt="Web Templates"
-                                                href="https://journals.unizik.edu.ng/">SLOT88</a>
+                                                href="https://ejournal.uinsgd.ac.id/">SLOT88</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Code"
-                                                href="https://journals.unizik.edu.ng/">DAFTAR SLOT88</a>
+                                                href="https://ejournal.uinsgd.ac.id/">DAFTAR SLOT88</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Video"
-                                                href="https://journals.unizik.edu.ng/">LOGIN SLOT88</a>
+                                                href="https://ejournal.uinsgd.ac.id/">LOGIN SLOT88</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Music"
-                                                href="https://journals.unizik.edu.ng/">LINK SLOT88</a>
+                                                href="https://ejournal.uinsgd.ac.id/">LINK SLOT88</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Graphics"
-                                                href="https://journals.unizik.edu.ng/">ALTERNATIF SLOT88</a>
+                                                href="https://ejournal.uinsgd.ac.id/">ALTERNATIF SLOT88</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Photos"
-                                                href="https://journals.unizik.edu.ng/">SITUS SLOT</a>
+                                                href="https://ejournal.uinsgd.ac.id/">SITUS SLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="3D Files"
-                                                href="https://journals.unizik.edu.ng/">TOGEL ONLINE</a>
+                                                href="https://ejournal.uinsgd.ac.id/">TOGEL ONLINE</a>
                                         </div>
 
                                         <div class="header-site-titles__site elements-nav__container"
@@ -2158,7 +2158,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-0-dropdown"
-                                                href="https://journals.unizik.edu.ng/">
+                                                href="https://ejournal.uinsgd.ac.id/">
 
                                                 SITUS ONLINE
 
@@ -2167,7 +2167,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-1-dropdown"
-                                                href="https://journals.unizik.edu.ng/">
+                                                href="https://ejournal.uinsgd.ac.id/">
 
                                                 SITUS TERPERCAYA
 
@@ -2176,7 +2176,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-2-dropdown"
-                                                href="https://journals.unizik.edu.ng/">
+                                                href="https://ejournal.uinsgd.ac.id/">
 
                                                 SLOT RESMI
 
@@ -2184,7 +2184,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://journals.unizik.edu.ng/">
+                                                href="https://ejournal.uinsgd.ac.id/">
 
                                                 SITUS TERBARU
 
@@ -2193,7 +2193,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                      </ul>
                                         <div class="header-categories__search" bis_skin_checked="1">
                                             <form id="search" data-view="searchField"
-                                                action="https://journals.unizik.edu.ng/"
+                                                action="https://ejournal.uinsgd.ac.id/"
                                                 accept-charset="UTF-8" method="get">
                                                 <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                     <div class="search-field__input" bis_skin_checked="1">
@@ -2228,14 +2228,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                             <nav class="breadcrumbs h-text-truncate  ">
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://journals.unizik.edu.ng/">SLOT88</a>
+                                    href="https://ejournal.uinsgd.ac.id/">SLOT88</a>
 
 
-                                <a href="https://journals.unizik.edu.ng/"
+                                <a href="https://ejournal.uinsgd.ac.id/"
                                     class="js-breadcrumb-category">SITUS TOGEL</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://journals.unizik.edu.ng/">SITUS ONLINE</a>
+                                    href="https://ejournal.uinsgd.ac.id/">SITUS ONLINE</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -2251,7 +2251,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
                                         <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m"
                                             rel="nofollow" title="Add to Cart" data-view="modalAjax"
-                                            href="https://journals.unizik.edu.ng/">
+                                            href="https://ejournal.uinsgd.ac.id/">
                                             <span class="item-header__cart-button-icon">
                                                 <i class="e-icon -icon-cart -margin-right"></i>
                                             </span>
@@ -2266,7 +2266,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
                                         By <a rel="author" class="js-by-author"
-                                            href="https://journals.unizik.edu.ng/">SLOT777</a>
+                                            href="https://ejournal.uinsgd.ac.id/">SLOT777</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
@@ -2306,10 +2306,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 <ul>
                                     <li class="selected"><a
                                             class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="https://journals.unizik.edu.ng/">SLOT88</a>
+                                            href="https://ejournal.uinsgd.ac.id/">SLOT88</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none"
-                                            href="https://journals.unizik.edu.ng/"><span>Reviews</span><span>
+                                            href="https://ejournal.uinsgd.ac.id/"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
                                                     <div class="rating-detailed-small__header" bis_skin_checked="1">
                                                         <div class="rating-detailed-small__stars" bis_skin_checked="1">
@@ -2329,10 +2329,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                 </div>
                                             </span><span class="item-navigation-reviews-comments">2.0K</span></a></li>
                                     <li><a class="js-item-navigation-comments t-link -decoration-none"
-                                            href="https://journals.unizik.edu.ng/"><span>Comments</span><span
+                                            href="https://ejournal.uinsgd.ac.id/"><span>Comments</span><span
                                                 class="item-navigation-reviews-comments">2.0K</span></a></li>
                                     <li><a class="js-item-navigation-support t-link -decoration-none"
-                                            href="https://journals.unizik.edu.ng/">Support</a>
+                                            href="https://ejournal.uinsgd.ac.id/">Support</a>
                                     </li>
                                 </ul>
 
@@ -2386,12 +2386,12 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
                                     <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://journals.unizik.edu.ng/"><span
+                                            href="https://ejournal.uinsgd.ac.id/"><span
                                                 class="item-bookmarking__control--label">Add to Favorites</span></a>
                                     </li>
                                     <li class="js-collection-widget item-bookmarking__control_icons--collection"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://journals.unizik.edu.ng/"><span
+                                            href="https://ejournal.uinsgd.ac.id/"><span
                                                 class="item-bookmarking__control--label">Add to Collection</span></a>
                                     </li>
                                 </ul>
@@ -2422,7 +2422,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <li class="item-bookmarking__control_icons--favorite">
                                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://journals.unizik.edu.ng/"><span
+                                                        href="https://ejournal.uinsgd.ac.id/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a>
                                                 </span>
@@ -2431,7 +2431,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <li class="item-bookmarking__control_icons--collection">
                                                 <span>
                                                     <a title="Add to Collection" data-view="modalAjax"
-                                                        href="https://journals.unizik.edu.ng/">
+                                                        href="https://ejournal.uinsgd.ac.id/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span>
                                                     </a> </span>
@@ -2554,11 +2554,11 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                     </style>
 
                                     <div data-view="toggleItemDescription" bis_skin_checked="1">
-                                        <p><a href="https://journals.unizik.edu.ng/"><strong>SLOT777</strong></a> adalah link situs slot gacor 777 terbaru yang dikenal <strong>paling cuan</strong> di tahun 2025. Dengan dukungan <strong>server Thailand</strong> dan <strong>RTP Slot88 tertinggi</strong>, SLOT777 memberikan peluang menang besar dan maxwin yang lebih mudah diraih setiap hari.</p><p>Sebagai situs resmi toto slot 4D, SLOT777 menghadirkan ratusan permainan populer seperti <strong>Gates of Olympus, Starlight Princess,</strong> dan <strong>Sweet Bonanza</strong> yang sering memberi jackpot besar. Ditambah login cepat anti lelet, bonus melimpah, serta layanan 24 jam nonstop, menjadikan SLOT777 pilihan utama pemain slot online.</p><p><strong>Daftar sekarang di SLOT777 server Thailand dan nikmati sensasi maxwin tanpa batas hari ini!</strong></p>
+                                        <p><a href="https://ejournal.uinsgd.ac.id/"><strong>SLOT777</strong></a> adalah link situs slot gacor 777 terbaru yang dikenal <strong>paling cuan</strong> di tahun 2025. Dengan dukungan <strong>server Thailand</strong> dan <strong>RTP Slot88 tertinggi</strong>, SLOT777 memberikan peluang menang besar dan maxwin yang lebih mudah diraih setiap hari.</p><p>Sebagai situs resmi toto slot 4D, SLOT777 menghadirkan ratusan permainan populer seperti <strong>Gates of Olympus, Starlight Princess,</strong> dan <strong>Sweet Bonanza</strong> yang sering memberi jackpot besar. Ditambah login cepat anti lelet, bonus melimpah, serta layanan 24 jam nonstop, menjadikan SLOT777 pilihan utama pemain slot online.</p><p><strong>Daftar sekarang di SLOT777 server Thailand dan nikmati sensasi maxwin tanpa batas hari ini!</strong></p>
                                             <div class="js-item-description-toggle item-description-toggle"
                                                 bis_skin_checked="1">
                                                 <a class="item-description-toggle__link"
-                                                    href="https://journals.unizik.edu.ng/">
+                                                    href="https://ejournal.uinsgd.ac.id/">
                                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2601,7 +2601,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
                                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;SLOT777: Link Situs Gacor 777 Terbaru Paling Cuan & Login Toto Slot 4D Dengan RTP Slot88 Tertinggi Server Thailand&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="https://journals.unizik.edu.ng/"
+                                                    action="https://ejournal.uinsgd.ac.id/"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
                                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
@@ -2662,7 +2662,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                 <p class="t-body -size-m h-m0">
                                                                                     <a class="t-link -decoration-reversed"
                                                                                         target="_blank"
-                                                                                        href="https://journals.unizik.edu.ng//licenses/standard">View
+                                                                                        href="https://ejournal.uinsgd.ac.id//licenses/standard">View
                                                                                         license details</a>
                                                                                 </p>
                                                                             </div>
@@ -2814,7 +2814,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                     <div class="t-body -size-s h-text-align-center h-mt2" bis_skin_checked="1">
                                         Â© All Rights Reserved SLOT777
                                         <br>
-                                        <div><div>Contact the <a href="https://journals.unizik.edu.ng/"><strong>SLOT777</strong></a> Help Team</div></div>
+                                        <div><div>Contact the <a href="https://ejournal.uinsgd.ac.id/"><strong>SLOT777</strong></a> Help Team</div></div>
                                     </div>
 
                                 </div>
@@ -2851,11 +2851,11 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://journals.unizik.edu.ng//hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
+                                                            href="https://ejournal.uinsgd.ac.id//hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://journals.unizik.edu.ng//licenses">Licenses</a>
+                                                            href="https://ejournal.uinsgd.ac.id//licenses">Licenses</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2883,7 +2883,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://journals.unizik.edu.ng/">Help Center</a>
+                                                            href="https://ejournal.uinsgd.ac.id/">Help Center</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2898,19 +2898,19 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://journals.unizik.edu.ng/">Community</a>
+                                                            href="https://ejournal.uinsgd.ac.id/">Community</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://journals.unizik.edu.ng/">Blog</a>
+                                                            href="https://ejournal.uinsgd.ac.id/">Blog</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://journals.unizik.edu.ng/">Forums</a>
+                                                            href="https://ejournal.uinsgd.ac.id/">Forums</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://journals.unizik.edu.ng/">Meetups</a>
+                                                            href="https://ejournal.uinsgd.ac.id/">Meetups</a>
                                                     </li>
                                                 </ul>
                                             </li>
@@ -3163,7 +3163,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </div>
     </div>
     <div id="js-customer-satisfaction-popup" class="survey-popup is-visually-hidden" bis_skin_checked="1">
-        <div class="h-text-align-right" bis_skin_checked="1"><a href="https://journals.unizik.edu.ng/"
+        <div class="h-text-align-right" bis_skin_checked="1"><a href="https://ejournal.uinsgd.ac.id/"
                 id="js-popup-close-button" class="e-alert-box__dismiss-icon"><i class="e-icon -icon-cancel"></i></a>
         </div>
         <div class="survey-popup--section" bis_skin_checked="1">
@@ -3171,7 +3171,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             <p>We'd like to ask you a few questions to help improve ThemeForest.</p>
         </div>
         <div class="survey-popup--section" bis_skin_checked="1">
-            <a href="https://journals.unizik.edu.ng/" id="js-show-survey-button"
+            <a href="https://ejournal.uinsgd.ac.id/" id="js-show-survey-button"
                 class="e-btn -color-primary -size-m -width-full js-survey-popup--show-survey-button">Sure, take me to
                 the survey</a>
         </div>
@@ -3310,7 +3310,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         <div class="flyout__link" bis_skin_checked="1">
             <p class="t-body -size-m h-m0">
                 <a class="t-link -decoration-reversed" target="_blank"
-                    href="https://journals.unizik.edu.ng/">View license details</a>
+                    href="https://ejournal.uinsgd.ac.id/">View license details</a>
             </p>
         </div>
     </div><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><iframe
